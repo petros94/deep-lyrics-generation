@@ -1,0 +1,1144 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/530103",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+ "id": 530103,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Stelios Rokkos",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Stelios-rokkos",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7357447",
+  "classification": "needs_exegesis",
+  "fragment": "Stelios Rokkos",
+  "id": 7357447,
+  "is_description": true,
+  "path": "/7357447/Stelios-rokkos/Stelios-rokkos",
+  "range": {
+   "content": "Stelios Rokkos"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7357447/Stelios-rokkos/Stelios-rokkos",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/530103",
+   "context": null,
+   "id": 530103,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1651860076",
+   "link_title": "Stelios Rokkos",
+   "title": "Stelios Rokkos",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Stelios-rokkos"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7357447",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7357447,
+    "pinned": false,
+    "share_url": "https://genius.com/7357447",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7357447/Stelios-rokkos/Stelios-rokkos",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2225057",
+   "artist_names": "Stelios Rokkos",
+   "full_title": "Poso Akoma by\u00a0Stelios\u00a0Rokkos",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "id": 2225057,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Stelios-rokkos-poso-akoma-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Poso Akoma",
+   "title_with_featured": "Poso Akoma",
+   "url": "https://genius.com/Stelios-rokkos-poso-akoma-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/530103",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "id": 530103,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stelios Rokkos",
+    "url": "https://genius.com/artists/Stelios-rokkos"
+   },
+   "apple_music_id": "875253167",
+   "apple_music_player_url": "https://genius.com/songs/2225057/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2225057' class='rg_embed_link' data-song-id='2225057'>Read <a href='https://genius.com/Stelios-rokkos-poso-akoma-lyrics'>\u201cPoso Akoma\u201d by Stelios\u00a0Rokkos</a> on Genius</div> <script crossorigin src='//genius.com/songs/2225057/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7357449",
+    "classification": "needs_exegesis",
+    "fragment": "Poso Akoma",
+    "id": 7357449,
+    "is_description": true,
+    "path": "/7357449/Stelios-rokkos-poso-akoma/Poso-akoma",
+    "range": {
+     "content": "Poso Akoma"
+    },
+    "song_id": 2225057,
+    "url": "https://genius.com/7357449/Stelios-rokkos-poso-akoma/Poso-akoma",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2225057",
+     "client_timestamps": {
+      "updated_by_human_at": 1447114474,
+      "lyrics_updated_at": 1437079557
+     },
+     "context": "Stelios Rokkos",
+     "id": 2225057,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+     "link_title": "Poso Akoma by\u00a0Stelios\u00a0Rokkos",
+     "title": "Poso Akoma",
+     "type": "Song",
+     "url": "https://genius.com/Stelios-rokkos-poso-akoma-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7357449",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7357449,
+      "pinned": false,
+      "share_url": "https://genius.com/7357449",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7357449/Stelios-rokkos-poso-akoma/Poso-akoma",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Stelios Rokkos",
+   "lyrics": "Poso Akoma Lyrics\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b1\u03bd\u03c4\u03ad\u03c7\u03c9 \u03bd\u03b1 \u03c0\u03bf\u03bd\u03ce\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b1\u03bd\u03c4\u03ad\u03c7\u03c9 \u03bd\u03b1 \u03b1\u03bd\u03c4\u03ad\u03c7\u03c9\n\u039d\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ce \u03ba\u03ac\u03b8\u03b5 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03ba\u03ac\u03b8\u03b5 \u03bb\u03b5\u03c0\u03c4\u03cc\n\u03a0\u03bf\u03c5 \u03b4\u03b5 \u03c3' \u03ad\u03c7\u03c9\n\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03a74\n\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03ad\u03c6\u03bf\u03bc\u03b1\u03b9 \u03c4\u03b1 \u03b2\u03c1\u03ac\u03b4\u03b9\u03b1\n\u0394\u03af\u03c7\u03c9\u03c2 \u03c6\u03b5\u03b3\u03b3\u03ac\u03c1\u03b9 \u03ba\u03b9 \u03bf\u03c5\u03c1\u03b1\u03bd\u03cc \u03bc\u03cc\u03bd\u03bf \u03c0\u03bb\u03b7\u03b3\u03ad\u03c2 \u03bc\u03b5\u03c4\u03c1\u03ce \u03c3\u03b7\u03bc\u03ac\u03b4\u03b9\u03b1\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03ce \u03c0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b1\u03bd\u03c4\u03ad\u03c7\u03c9\n\u0394\u03af\u03c7\u03c9\u03c2 \u03c6\u03b5\u03b3\u03b3\u03ac\u03c1\u03b9 \u03ba\u03b9 \u03bf\u03c5\u03c1\u03b1\u03bd\u03cc \u03b4\u03af\u03c7\u03c9\u03c2 \u03b5\u03c3\u03ad\u03bd\u03b1 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03ad\u03c7\u03c9\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1\n\n\u039a\u03c1\u03b1\u03c4\u03ce \u03c6\u03b5\u03b3\u03b3\u03ac\u03c1\u03b9 \u03c6\u03c9\u03c4\u03b5\u03b9\u03bd\u03cc \u03ae\u03bb\u03b9\u03bf \u03b7\u03bb\u03b9\u03cc\u03bb\u03bf\u03c5\u03c3\u03c4\u03bf\n\u039a\u03b9 \u03b1\u03c0\u03bf\u03bc\u03b1\u03ba\u03c1\u03cd\u03bd\u03bf\u03bc\u03b1\u03b9 \u03ac\u03c0' \u03c4\u03bf \u03ba\u03ac\u03b8\u03b5 \u03c4\u03b9 \u03ba\u03b1\u03ba\u03cc\u03b3\u03bf\u03c5\u03c3\u03c4\u03bf\n\u0398\u03b1 \u03c3\u03c4\u03cd\u03c8\u03c9 \u03cc\u03bb\u03bf \u03c4\u03bf\u03bd \u03bf\u03c5\u03c1\u03b1\u03bd\u03cc \u03ba\u03b9 \u03b1\u03c0' \u03b1\u03c5\u03c4\u03cc\u03bd \u03b8\u03b1 \u03c0\u03bb\u03c5\u03b8\u03ce\n\u0391\u03bd \u03c4\u03c5\u03c7\u03cc\u03bd \u03b5\u03ba\u03b5\u03af \u03c0\u03bf\u03c5 \u03b5\u03af\u03c3\u03b1\u03b9 \u03ba\u03b9 \u03b5\u03b3\u03ce \u03be\u03b1\u03bd\u03b1\u03b2\u03c1\u03b5\u03b8\u03ce\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b1\u03bd\u03c4\u03ad\u03c7\u03c9 \u03bd\u03b1 \u03b3\u03c5\u03c1\u03bd\u03ce\n\u039c\u03ad\u03c1\u03b1 \u03bd\u03cd\u03c7\u03c4\u03b1 \u03b4\u03af\u03c7\u03c9\u03c2 \u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b1\u03bd\u03c4\u03ad\u03c7\u03c9 \u03bd\u03b1 \u03b1\u03bd\u03c4\u03ad\u03c7\u03c9\n\u039d\u03b1 \u03c0\u03ad\u03c6\u03c4\u03c9 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03b6\u03c9 \u03c3\u03c4\u03bf \u03ba\u03b5\u03bd\u03cc\n\u039d\u03b1 \u03b3\u03c5\u03c1\u03bd\u03ce \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b4\u03c1\u03cc\u03bc\u03bf\u03c5\u03c2 \u03c3\u03c4\u03bf \u03c7\u03b1\u03bc\u03cc\n\u039a\u03b1\u03b9 \u03c4\u03ad\u03bb\u03bf\u03c2 \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03b2\u03c1\u03c9\n\u039d\u03b1 \u03bc\u03b7 \u03c3' \u03ad\u03c7\u03c9\n\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1\n\u0398\u03b1 \u03b6\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03b1\u03b9\u03b3\u03af\u03b4\u03b1 \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c5\n\u039d\u03b1 \u03c0\u03ad\u03c6\u03c4\u03b5\u03b9\u03c2 \u03b4\u03af\u03c0\u03bb\u03b1 \u03b1\u03c0\u03cc \u03c3\u03c4\u03b1\u03b3\u03cc\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03cd\u03c8\u03bf\u03c2 \u0398\u03b5\u03bf\u03cd\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1\n\u0398\u03b1 \u03b6\u03b5\u03b9\u03c2 \u03bc\u03ad\u03c3\u03b1 \u03c3' \u03bf\u03bc\u03af\u03c7\u03bb\u03b7 \u03ba\u03b1\u03c0\u03bd\u03bf\u03cd\n\u039c\u03b5 \u03b4\u03af\u03c7\u03c9\u03c2 \u03ba\u03cd\u03c1\u03bf\u03c2 \u03bc\u03cc\u03bd\u03bf\u03c2 \u03c6\u03af\u03bb\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c2 \u03c4\u03c1\u03b5\u03bb\u03bf\u03cd\n\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03ad\u03c6\u03bf\u03bc\u03b1\u03b9 \u03c4\u03b1 \u03b2\u03c1\u03ac\u03b4\u03b9\u03b1\n\u0394\u03af\u03c7\u03c9\u03c2 \u03c6\u03b5\u03b3\u03b3\u03ac\u03c1\u03b9 \u03ba\u03b9 \u03bf\u03c5\u03c1\u03b1\u03bd\u03cc \u03bc\u03cc\u03bd\u03bf \u03c0\u03bb\u03b7\u03b3\u03ad\u03c2 \u03bc\u03b5\u03c4\u03c1\u03ce \u03c3\u03b7\u03bc\u03ac\u03b4\u03b9\u03b1\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03ce \u03c0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b1\u03bd\u03c4\u03ad\u03c7\u03c9\n\u0394\u03af\u03c7\u03c9\u03c2 \u03c6\u03b5\u03b3\u03b3\u03ac\u03c1\u03b9 \u03ba\u03b9 \u03bf\u03c5\u03c1\u03b1\u03bd\u03cc \u03b4\u03af\u03c7\u03c9\u03c2 \u03b5\u03c3\u03ad\u03bd\u03b1 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03ad\u03c7\u03c9\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1\n\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b6\u03b5\u03b9\u03c2 \u03bc\u03b5\u03c2 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03b1\u03b9\u03b3\u03af\u03b4\u03b1 \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c5\n\u039d\u03b1 \u03c0\u03ad\u03c6\u03c4\u03b5\u03b9\u03c2 \u03b4\u03af\u03c0\u03bb\u03b1 \u03b1\u03c0\u03cc \u03c3\u03c4\u03b1\u03b3\u03cc\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03cd\u03c8\u03bf\u03c2 \u0398\u03b5\u03bf\u03cd\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b6\u03b5\u03b9\u03c2 \u03bc\u03b5\u03c2 \u03c4\u03b7\u03bd \u03bf\u03bc\u03af\u03c7\u03bb\u03b7 \u03ba\u03b1\u03c0\u03bd\u03bf\u03cd\n\u039c\u03b5 \u03b4\u03af\u03c7\u03c9\u03c2 \u03ba\u03cd\u03c1\u03bf\u03c2 \u03bc\u03cc\u03bd\u03bf\u03c2 \u03c6\u03af\u03bb\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c2 \u03c4\u03c1\u03b5\u03bb\u03bf\u03cd\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03ce \u03c0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b1\u03bd\u03c4\u03ad\u03c7\u03c9\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b6\u03b5\u03b9\u03c2 \u03bc\u03b5\u03c2 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03b1\u03b9\u03b3\u03af\u03b4\u03b1 \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c5\n\u039d\u03b1 \u03c0\u03ad\u03c6\u03c4\u03b5\u03b9\u03c2 \u03b4\u03af\u03c0\u03bb\u03b1 \u03b1\u03c0\u03cc \u03c3\u03c4\u03b1\u03b3\u03cc\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03cd\u03c8\u03bf\u03c2 \u0398\u03b5\u03bf\u03cd\n\u0394\u03af\u03c7\u03c9\u03c2 \u03c6\u03b5\u03b3\u03b3\u03ac\u03c1\u03b9 \u03ba\u03b9 \u03bf\u03c5\u03c1\u03b1\u03bd\u03cc \u03b4\u03af\u03c7\u03c9\u03c2 \u03b5\u03c3\u03ad\u03bd\u03b1 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03ad\u03c7\u03c9\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b8\u03b1 \u03b6\u03b5\u03b9\u03c2 \u03bc\u03b5\u03c2 \u03c4\u03b7\u03bd \u03bf\u03bc\u03af\u03c7\u03bb\u03b7 \u03ba\u03b1\u03c0\u03bd\u03bf\u03cd\n\u039c\u03b5 \u03b4\u03af\u03c7\u03c9\u03c2 \u03ba\u03cd\u03c1\u03bf\u03c2 \u03bc\u03cc\u03bd\u03bf\u03c2 \u03c6\u03af\u03bb\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c2 \u03c4\u03c1\u03b5\u03bb\u03bf\u03cd\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1\n\n\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6425557",
+   "artist_names": "Stelios Rokkos",
+   "full_title": "\u0395\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03c9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9 by\u00a0Stelios\u00a0Rokkos",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "id": 6425557,
+   "lyrics_owner_id": 11466695,
+   "lyrics_state": "complete",
+   "path": "/Stelios-rokkos--annotated",
+   "pyongs_count": null,
+   "release_date_for_display": "January 27, 2021",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u0395\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03c9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9",
+   "title_with_featured": "\u0395\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03c9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9",
+   "url": "https://genius.com/Stelios-rokkos--annotated",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/530103",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "id": 530103,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stelios Rokkos",
+    "url": "https://genius.com/artists/Stelios-rokkos"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/6425557/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6425557' class='rg_embed_link' data-song-id='6425557'>Read <a href='https://genius.com/Stelios-rokkos--annotated'>\u201c\u0395\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03c9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9\u201d by Stelios\u00a0Rokkos</a> on Genius</div> <script crossorigin src='//genius.com/songs/6425557/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2021-01-27",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11466695,
+    "annotator_login": "Argyrw",
+    "api_path": "/referents/22006883",
+    "classification": "needs_exegesis",
+    "fragment": "\u0395\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03c9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9",
+    "id": 22006883,
+    "is_description": true,
+    "path": "/22006883/Stelios-rokkos-/",
+    "range": {
+     "content": "\u0395\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03c9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9"
+    },
+    "song_id": 6425557,
+    "url": "https://genius.com/22006883/Stelios-rokkos-/",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6425557",
+     "client_timestamps": {
+      "updated_by_human_at": 1611745884,
+      "lyrics_updated_at": 1611745884
+     },
+     "context": "Stelios Rokkos",
+     "id": 6425557,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+     "link_title": "\u0395\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03c9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9 by\u00a0Stelios\u00a0Rokkos",
+     "title": "\u0395\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03c9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9",
+     "type": "Song",
+     "url": "https://genius.com/Stelios-rokkos--annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/22006883",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 22006883,
+      "pinned": false,
+      "share_url": "https://genius.com/22006883",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/22006883/Stelios-rokkos-/",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11466695",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8f861b95591f65d47d99e868b39e9a98",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8f861b95591f65d47d99e868b39e9a98",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8f861b95591f65d47d99e868b39e9a98",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8f861b95591f65d47d99e868b39e9a98",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/8f861b95591f65d47d99e868b39e9a98",
+         "human_readable_role_for_display": "Contributor",
+         "id": 11466695,
+         "iq": 3138,
+         "login": "Argyrw",
+         "name": "Argyrw",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Argyrw",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=c25blZNkvo4"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Stelios Rokkos",
+   "lyrics": "\u0395\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03c9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9 Lyrics\u039a\u03ac\u03c0\u03bf\u03b9\u03bf \u03b2\u03c1\u03ac\u03b4\u03c5 \u03c3\u03bf\u03c5 \u03c7\u03b1 \u03c0\u03b5\u03b9 \u03c0\u03c9\u03c2 \u03b8\u03ad\u03bb\u03c9\n\u03bd\u03b1 \u03b3\u03c5\u03c1\u03af\u03c3\u03c9 \u03cc\u03bb\u03bf \u03c4\u03bf \u03ba\u03cc\u03c3\u03bc\u03bf, \u03cc\u03bb\u03bf \u03c4\u03bf \u03ba\u03cc\u03c3\u03bc\u03bf\n\u039a\u03b1\u03b9 \u03c3\u03c5 \u03bc\u03bf\u03c5 \u03b3\u03ad\u03bb\u03b1\u03c3\u03b5\u03c2 \u03b3\u03bb\u03c5\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03c2\n\u03c4\u03bf \u03c6\u03b9\u03bb\u03af \u03bc\u03bf\u03c5 \u03bc\u03c5\u03c1\u03af\u03b6\u03b5\u03b9 \u03b4\u03c5\u03cc\u03c3\u03bc\u03bf, \u03bc\u03c5\u03c1\u03af\u03b6\u03b5\u03b9 \u03b4\u03c5\u03cc\u03c3\u03bc\u03bf\n\n\u039a\u03ac\u03c0\u03bf\u03b9\u03bf \u03b2\u03c1\u03ac\u03b4\u03c5 \u03c3\u03bf\u03c5 \u03c7\u03b1 \u03c0\u03b5\u03b9 \u03c0\u03c9\u03c2 \u03b8\u03ad\u03bb\u03c9\n\u03bd\u03b1 \u03c0\u03b5\u03c4\u03ac\u03be\u03c9 \u03c3\u03b1\u03bd \u03c0\u03bf\u03c5\u03bb\u03af \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc \u03c4\u03bf \u03ba\u03cc\u03c3\u03bc\u03bf\n\u039a\u03b1\u03b9 \u03c3\u03c5 \u03b6\u03c9\u03b3\u03c1\u03ac\u03c6\u03b9\u03c3\u03b5\u03c2 \u03c6\u03c4\u03b5\u03c1\u03ac \u03c3\u2019 \u03ad\u03bd\u03b1 \u03bb\u03b5\u03c5\u03ba\u03cc \u03c7\u03b1\u03c1\u03c4\u03af\n\u03ba\u03b1\u03b9 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03c2 \u03c6\u03c9\u03c2 \u03bc\u03bf\u03c5, \u03bc\u03b7 \u03c6\u03cd\u03b3\u03b5\u03b9\u03c2 \u03c6\u03c9\u03c2 \u03bc\u03bf\u03c5\n\n\u0388\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03bc\u03b7 \u03c3\u03bf\u03c5 \u03bb\u03b5\u03af\u03c8\u03b5\u03b9 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1\n\u0388\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03bc\u03b7 \u03c6\u03bf\u03b2\u03b7\u03b8\u03b5\u03af\u03c2\n\u039d\u03b1 \u03bc\u03b7 \u03bc\u03b5\u03af\u03bd\u03b5\u03b9\u03c2 \u03bc\u03cc\u03bd\u03b7 \u03c3\u03bf\u03c5 \u03ba\u03b1\u03b9 \u2018\u03b3\u03c9 \u03c3\u03c4\u03bf \u03c4\u03af\u03c0\u03bf\u03c4\u03b1\n\u0388\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03bc\u03b7 \u03bc\u03b1\u03c1\u03b1\u03b8\u03b5\u03af\u03c2\n\n\u039a\u03ac\u03c0\u03bf\u03b9\u03bf \u03b2\u03c1\u03ac\u03b4\u03c5 \u03bc\u03bf\u03c5 \u03c7\u03b5\u03c2 \u03c0\u03b5\u03b9 \u03c0\u03c9\u03c2 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9\n\u03bd\u03b1 \u03b3\u03b5\u03bd\u03bd\u03ae\u03b8\u03b7\u03ba\u03b1 \u03b3\u03b9\u03b1 \u03c3\u03ad\u03bd\u03b1, \u03bc\u03cc\u03bd\u03bf \u03b3\u03b9\u03b1 \u03c3\u03ad\u03bd\u03b1\n\u039a\u03b1\u03b9 \u2018\u03b3\u03c9 \u03c3\u03b5 \u03c0\u03ae\u03c1\u03b1 \u03b1\u03b3\u03ba\u03b1\u03bb\u03b9\u03ac \u03ba\u03b1\u03b9 \u03c7\u03ac\u03b8\u03b7\u03ba\u03b1\n\u03c3\u03c4\u03b1 \u03bc\u03ac\u03c4\u03b9\u03b1 \u03c3\u03bf\u03c5 \u03c4\u03b1 \u03bc\u03b1\u03b3\u03b5\u03bc\u03ad\u03bd\u03b1, \u03c4\u03b1 \u03bc\u03b1\u03b3\u03b5\u03bc\u03ad\u03bd\u03b1\n\u039a\u03ac\u03c0\u03bf\u03b9\u03bf \u03b2\u03c1\u03ac\u03b4\u03c5 \u03bc\u03bf\u03c5 \u03c7\u03b5\u03c2 \u03c0\u03b5\u03b9 \u03c0\u03c9\u03c2 \u03b4\u03b5 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c2\n\u03bd\u03b1 \u03b6\u03ae\u03c3\u03b5\u03b9\u03c2 \u03bc\u03b9\u03b1 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03c7\u03c9\u03c1\u03af\u03c2 \u03b5\u03bc\u03ad\u03bd\u03b1\n\u039a\u03b1\u03b9 \u03b3\u03c9 \u03b4\u03b5 \u03bc\u03af\u03bb\u03b7\u03c3\u03b1 \u03be\u03b1\u03bd\u03ac\n\u03b3\u03b9\u03b1\u03c4\u03af \u03c3\u03c4\u03b1 \u03c7\u03ad\u03c1\u03b9\u03b1 \u03bc\u03bf\u03c5 \u03b5\u03af\u03c7\u03b1 \u03b5\u03c3\u03ad\u03bd\u03b1\n\u03bc\u03cc\u03bd\u03bf \u03b5\u03c3\u03ad\u03bd\u03b1\n\n\u0388\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03bc\u03b7 \u03c3\u03bf\u03c5 \u03bb\u03b5\u03af\u03c8\u03b5\u03b9 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1\n\u0388\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03bc\u03b7 \u03c6\u03bf\u03b2\u03b7\u03b8\u03b5\u03af\u03c2\n\u039d\u03b1 \u03bc\u03b7 \u03bc\u03b5\u03af\u03bd\u03b5\u03b9\u03c2 \u03bc\u03cc\u03bd\u03b7 \u03c3\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b3\u03c9 \u03c3\u03c4\u03bf \u03c4\u03af\u03c0\u03bf\u03c4\u03b1\n\u0388\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03bc\u03b7 \u03bc\u03b1\u03c1\u03b1\u03b8\u03b5\u03af\u03c2\u2026\n\n\u0388\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03bc\u03b7 \u03c3\u03bf\u03c5 \u03bb\u03b5\u03af\u03c8\u03b5\u03b9 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1\n\u0388\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03bc\u03b7 \u03c6\u03bf\u03b2\u03b7\u03b8\u03b5\u03af\u03c2\n\u039d\u03b1 \u03bc\u03b7 \u03bc\u03b5\u03af\u03bd\u03b5\u03b9\u03c2 \u03bc\u03cc\u03bd\u03b7 \u03c3\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b3\u03c9 \u03c3\u03c4\u03bf \u03c4\u03af\u03c0\u03bf\u03c4\u03b1\n\u0388\u03bc\u03b5\u03b9\u03bd\u03b1 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03bc\u03b7 \u03bc\u03b1\u03c1\u03b1\u03b8\u03b5\u03af\u03c2\u2026Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6898486",
+   "artist_names": "Stelios Rokkos",
+   "full_title": "Thimame by\u00a0Stelios\u00a0Rokkos",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "id": 6898486,
+   "lyrics_owner_id": 12995697,
+   "lyrics_state": "complete",
+   "path": "/Stelios-rokkos-thimame-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Thimame",
+   "title_with_featured": "Thimame",
+   "url": "https://genius.com/Stelios-rokkos-thimame-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/530103",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "id": 530103,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stelios Rokkos",
+    "url": "https://genius.com/artists/Stelios-rokkos"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/6898486/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6898486' class='rg_embed_link' data-song-id='6898486'>Read <a href='https://genius.com/Stelios-rokkos-thimame-lyrics'>\u201cThimame\u201d by Stelios\u00a0Rokkos</a> on Genius</div> <script crossorigin src='//genius.com/songs/6898486/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 12995697,
+    "annotator_login": "Kouktras",
+    "api_path": "/referents/23239934",
+    "classification": "needs_exegesis",
+    "fragment": "Thimame",
+    "id": 23239934,
+    "is_description": true,
+    "path": "/23239934/Stelios-rokkos-thimame/Thimame",
+    "range": {
+     "content": "Thimame"
+    },
+    "song_id": 6898486,
+    "url": "https://genius.com/23239934/Stelios-rokkos-thimame/Thimame",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6898486",
+     "client_timestamps": {
+      "updated_by_human_at": 1623309211,
+      "lyrics_updated_at": 1623309212
+     },
+     "context": "Stelios Rokkos",
+     "id": 6898486,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+     "link_title": "Thimame by\u00a0Stelios\u00a0Rokkos",
+     "title": "Thimame",
+     "type": "Song",
+     "url": "https://genius.com/Stelios-rokkos-thimame-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/23239934",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 23239934,
+      "pinned": false,
+      "share_url": "https://genius.com/23239934",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/23239934/Stelios-rokkos-thimame/Thimame",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/12995697",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7599ba2bef31b39eafaa3df691119555",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7599ba2bef31b39eafaa3df691119555",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7599ba2bef31b39eafaa3df691119555",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7599ba2bef31b39eafaa3df691119555",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/7599ba2bef31b39eafaa3df691119555",
+         "human_readable_role_for_display": null,
+         "id": 12995697,
+         "iq": 191,
+         "login": "Kouktras",
+         "name": "Kouktras",
+         "role_for_display": null,
+         "url": "https://genius.com/Kouktras",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Stelios Rokkos",
+   "lyrics": "Thimame Lyrics\u03a5\u03c0\u03b1\u03c1\u03c7\u03bf\u03c5\u03bd \u03c3\u03c4\u03b9\u03b3\u03bc\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b8\u03b5\u03c2 \u03bd\u03b1 \u03c7\u03b1\u03b8\u03b5\u03b9\u03c2\n\u03a3\u03c4\u03bf\u03bd \u03ba\u03bf\u03c3\u03bc\u03bf \u03c0\u03bf\u03c5 \u03b7\u03c1\u03b8\u03b5\u03c2 \u03bd\u03b1 \u03b8\u03b5\u03c2 \u03bd\u03b1 \u03ba\u03c1\u03c5\u03c6\u03c4\u03b5\u03b9\u03c2\n\u03a5\u03c0\u03b1\u03c1\u03c7\u03bf\u03c5\u03bd \u03c3\u03c4\u03b9\u03b3\u03bc\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03b2\u03bb\u03b5\u03c0\u03b5\u03b9\u03c2 \u03c4\u03bf \u03c6\u03c9\u03c2\n\u039a\u03b1\u03b9 \u03c3\u03ba\u03b5\u03c6\u03c4\u03b5\u03c3\u03b1\u03b9 \u03bc\u03bf\u03bd\u03bf \u03bd\u03b1 \u03b2\u03b3\u03b5\u03b9\u03c2 \u03b6\u03c9\u03bd\u03c4\u03b1\u03bd\u03bf\u03c2\n\u03a3\u03ba\u03bf\u03c4\u03b1\u03b4\u03b9 \u03c4\u03c1\u03b9\u03b3\u03c5\u03c1\u03c9 \u03ba\u03b1\u03b9 \u03bd\u03b9\u03c9\u03b8\u03c9 \u03be\u03b1\u03bd\u03b1\n\u03a0\u03c9\u03c2 \u03b5\u03bc\u03b5\u03b9\u03bd\u03b1 \u03bc\u03bf\u03bd\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03b2\u03c1\u03b1\u03b4\u03b9\u03b1\n\u0395\u03b9\u03ba\u03bf\u03bd\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03bc\u03bf\u03b9\u03b1\u03b6\u03bf\u03c5\u03bd \u03b1\u03bd\u03b1\u03bc\u03bd\u03b7\u03c3\u03b5\u03b9\u03c2 \u03c0\u03b1\u03bb\u03b9\u03b5\u03c2\n\u03a3\u03b1 \u03b2\u03b7\u03bc\u03b1 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03bd\u03bf\u03c5\u03bd \u03c3\u03c5\u03bd\u03b5\u03c7\u03b5\u03b9\u03b1 \u03c3\u03c4\u03bf \u03c7\u03b8\u03b5\u03c2\n\n\u039a\u03b1\u03b9 \u03b8\u03c5\u03bc\u03ac\u03bc\u03b1\u03b9 \u03b8\u03c5\u03bc\u03ac\u03bc\u03b1\u03b9 \u03c7\u03b5\u03b9\u03bc\u03c9\u03bd\u03b1\u03c2 \u03b2\u03c1\u03bf\u03c7\u03b7\n\u039d\u03b1 \u03c3\u03c4\u03b5\u03ba\u03bf\u03bc\u03b1\u03b9 \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03b1\u03c0\u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03b5\u03c3\u03c5\n\u0394\u03c5\u03bf \u03bc\u03ac\u03c4\u03b9\u03b1 \u03b8\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1 \u03c8\u03c5\u03c7\u03ad\u03c2 \u03c3\u03c4\u03bf \u03ba\u03b5\u03bd\u03cc\n\u03a0\u03bf\u03c5 \u03b8\u03b1 \u03c3\u03b5 \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03bc\u03b1\u03b9 \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03bf \u03ba\u03b1\u03b9\u03c1\u03cc\n\u039a\u03b1\u03b9 \u03b8\u03c5\u03bc\u03ac\u03bc\u03b1\u03b9 \u03b8\u03c5\u03bc\u03ac\u03bc\u03b1\u03b9 \u03c7\u03b5\u03b9\u03bc\u03ce\u03bd\u03b1\u03c2 \u03b2\u03c1\u03bf\u03c7\u03ae\n\u039d\u03b1 \u03c3\u03c4\u03b5\u03ba\u03bf\u03bc\u03b1\u03b9 \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03b1\u03c0\u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03b5\u03c3\u03c5\n\u03a4\u03bf \u03c0\u03cc\u03c3\u03bf \u03c3\u03b5 \u03b8\u03ad\u03bb\u03c9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03ac\u03c4\u03b9 \u03b1\u03c0\u03bb\u03cc\n\u039c\u03b1 \u03bd\u03b1 \u03be\u03ad\u03c1\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03ac\u03bd\u03c4\u03b1\n\u0398\u03b1 \u03c3\u03b5 \u03b5\u03c7\u03c9 \u0395\u0393\u03a9..\n\u03a5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03ba\u03cd\u03ba\u03bb\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03b9\u03bd\u03b1\u03b9 \u03b7 \u03b6\u03c9\u03ae\n\u0397 \u03bc\u03bf\u03af\u03c1\u03b1 \u03b7 \u03b4\u03b9\u03ba\u03b9\u03ac \u03bc\u03b1\u03c2 \u03c3\u03c0\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf \u03b3\u03c5\u03b1\u03bb\u03af\n\u0397 \u03c3\u03ba\u03ad\u03c8\u03b7 \u03bc\u03bf\u03c5 \u03bf\u03c1\u03af\u03b6\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ba\u03ac\u03b8\u03b5 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae\n\u0393\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c5\u03c0\u03bf\u03c6\u03ad\u03c1\u03c9 \u03ba\u03b1\u03b9 \u03bb\u03b5\u03af\u03c0\u03b5\u03b9\u03c2 \u03b5\u03c3\u03cd\n\u0398\u03b5\u03bb\u03c9 \u03bd\u03b1 '\u03c3\u03b1\u03b9 \u03b4\u03b9\u03ba\u03b9\u03ac \u03bc\u03bf\u03c5 \u03c4\u03bf \u03b4\u03b9\u03ba\u03cc \u03bc\u03bf\u03c5 \u03c0\u03b1\u03b9\u03b4\u03b9\n\u039d\u03b1 \u03b5\u03b9\u03c3\u03b1\u03b9 \u03bf \u03b7\u03bb\u03b9\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03c6\u03c9\u03c4\u03b5\u03af\u03b6\u03b5\u03b9 \u03c4\u03b7 \u03b3\u03b7\n\u0397 \u03b1\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c3\u03c4\u03bf \u03c8\u03ad\u03bc\u03b1, \u03c4\u03bf \u03ba\u03b1\u03bb\u03cc \u03c3\u03c4\u03bf \u03ba\u03b1\u03ba\u03cc\n\u0398\u03b5\u03bb\u03c9 \u03c0\u03b1\u03bd\u03c4\u03b1 \u03b3\u03b9\u03b1 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bd\u03b1 \u03c3'\u03b5\u03c7\u03c9 \u03b5\u03b3\u03c9Embed"
+  }
+ ]
+}

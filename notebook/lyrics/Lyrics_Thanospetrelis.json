@@ -1,0 +1,2421 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/459211",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+ "id": 459211,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Thanos petrelis",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Thanos-petrelis",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7123930",
+  "classification": "needs_exegesis",
+  "fragment": "Thanos petrelis",
+  "id": 7123930,
+  "is_description": true,
+  "path": "/7123930/Thanos-petrelis/Thanos-petrelis",
+  "range": {
+   "content": "Thanos petrelis"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7123930/Thanos-petrelis/Thanos-petrelis",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/459211",
+   "context": null,
+   "id": 459211,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1651860076",
+   "link_title": "Thanos petrelis",
+   "title": "Thanos petrelis",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Thanos-petrelis"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7123930",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7123930,
+    "pinned": false,
+    "share_url": "https://genius.com/7123930",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7123930/Thanos-petrelis/Thanos-petrelis",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2205392",
+   "artist_names": "Thanos petrelis",
+   "full_title": "Aman kai pos by\u00a0Thanos\u00a0petrelis",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "id": 2205392,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thanos-petrelis-aman-kai-pos-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Aman kai pos",
+   "title_with_featured": "Aman kai pos",
+   "url": "https://genius.com/Thanos-petrelis-aman-kai-pos-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/459211",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "id": 459211,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thanos petrelis",
+    "url": "https://genius.com/artists/Thanos-petrelis"
+   },
+   "apple_music_id": "260037860",
+   "apple_music_player_url": "https://genius.com/songs/2205392/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2205392' class='rg_embed_link' data-song-id='2205392'>Read <a href='https://genius.com/Thanos-petrelis-aman-kai-pos-lyrics'>\u201cAman kai pos\u201d by Thanos\u00a0petrelis</a> on Genius</div> <script crossorigin src='//genius.com/songs/2205392/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7310668",
+    "classification": "needs_exegesis",
+    "fragment": "Aman kai pos",
+    "id": 7310668,
+    "is_description": true,
+    "path": "/7310668/Thanos-petrelis-aman-kai-pos/Aman-kai-pos",
+    "range": {
+     "content": "Aman kai pos"
+    },
+    "song_id": 2205392,
+    "url": "https://genius.com/7310668/Thanos-petrelis-aman-kai-pos/Aman-kai-pos",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2205392",
+     "client_timestamps": {
+      "updated_by_human_at": 1447113446,
+      "lyrics_updated_at": 1436822785
+     },
+     "context": "Thanos petrelis",
+     "id": 2205392,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+     "link_title": "Aman kai pos by\u00a0Thanos\u00a0petrelis",
+     "title": "Aman kai pos",
+     "type": "Song",
+     "url": "https://genius.com/Thanos-petrelis-aman-kai-pos-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7310668",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7310668,
+      "pinned": false,
+      "share_url": "https://genius.com/7310668",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7310668/Thanos-petrelis-aman-kai-pos/Aman-kai-pos",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thanos petrelis",
+   "lyrics": "Aman kai pos Lyrics\u0394\u03af\u03c0\u03bb\u03b1 \u03bc\u03bf\u03c5 \u03cc\u03bb\u03b1 \u03b8\u03b1 \u03c4\u03b1 \u03b6\u03ae\u03c3\u03b5\u03b9\u03c2\n\u03a3\u03c4\u03bf\u03bd \u03c5\u03c0\u03ad\u03c1\u03c4\u03b1\u03c4\u03bf \u03b2\u03b1\u03b8\u03bc\u03cc...\n\u0388\u03c1\u03c9\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03b3\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9\u03c2\n\u0391\u03c6\u03bf\u03cd \u03be\u03ad\u03c1\u03b5\u03b9\u03c2 \u03c0\u03c9\u03c2 \u03b5\u03b3\u03ce...\n\n\u0391\u03bc\u03ac\u03bd \u03ba\u03b1\u03b9 \u03c0\u03c9\u03c2 \u03ba\u03ac\u03bd\u03c9 \u03b3\u03b9\u03b1 \u03c3\u03ad\u03bd\u03b1\n\u0395\u03af\u03bc\u03b1\u03b9 \u03c4\u03c1\u03b5\u03bb\u03cc\u03c2, \u03c4' \u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03ce...\n\u0391\u03bc\u03ac\u03bd \u03ba\u03b1\u03b9 \u03c0\u03c9\u03c2 \u03b3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03c3\u03bf\u03c5 \u03b2\u03bb\u03ad\u03bc\u03bc\u03b1\n\u0394\u03b9\u03b1\u03ba\u03b1\u03ce\u03c2, \u03c3' \u03b5\u03c0\u03b9\u03b8\u03c5\u03bc\u03ce...\n\n\u03a6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bb\u03bf\u03b9\u03c0\u03cc\u03bd \u03c0\u03c9\u03c2 \u03ad\u03c7\u03c9\n\u039a\u03cc\u03bb\u03bb\u03b7\u03bc\u03b1 \u03bc\u03b5 \u03c3\u03ad\u03bd\u03b1\u03bd\u03b5...\n\u039c\u03b1\u03ba\u03c1\u03b9\u03ac \u03c3\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b1\u03bd\u03c4\u03ad\u03c7\u03c9\n\u03a0\u03b5\u03c2 \u03bc\u03bf\u03c5 \u03b1\u03b3\u03ac\u03c0\u03b7 \u03bc\u03bf\u03c5 \u03c4\u03bf \u03bd\u03b1\u03b9...\n\n\u0391\u03bc\u03ac\u03bd \u03ba\u03b1\u03b9 \u03c0\u03c9\u03c2 \u03ba\u03ac\u03bd\u03c9 \u03b3\u03b9\u03b1 \u03c3\u03ad\u03bd\u03b1\n\u0395\u03af\u03bc\u03b1\u03b9 \u03c4\u03c1\u03b5\u03bb\u03cc\u03c2, \u03c4' \u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03ce...\n\u0391\u03bc\u03ac\u03bd \u03ba\u03b1\u03b9 \u03c0\u03c9\u03c2 \u03b3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03c3\u03bf\u03c5 \u03b2\u03bb\u03ad\u03bc\u03bc\u03b1\n\u0394\u03b9\u03b1\u03ba\u03b1\u03ce\u03c2, \u03c3' \u03b5\u03c0\u03b9\u03b8\u03c5\u03bc\u03ce...\n\u0386\u03bc\u03b1 \u03b5\u03af\u03c7\u03b1 \u03b5\u03b3\u03ce \u03b5\u03c3\u03ad\u03bd\u03b1\n\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c2 \u03bd\u03b1 \u03c6\u03b1\u03bd\u03c4\u03b1\u03c3\u03c4\u03b5\u03af\u03c2...\n\u03a4\u03b9 \u03b8\u03b1 \u03ad\u03ba\u03b1\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c3\u03ad\u03bd\u03b1\n\u0391\u03bd \u03c3\u03bf\u03c5 \u03c0\u03c9 \u03b8\u03b1 \u03c4\u03c1\u03b5\u03bb\u03b1\u03b8\u03b5\u03af\u03c2...\n\u03a7\u03b1\u03c1\u03b1\u03bc\u03af\u03b6\u03b5\u03c3\u03b1\u03b9 \u03bc\u03b1\u03ba\u03c1\u03b9\u03ac \u03bc\u03bf\u03c5\n\u039c\u03b7 \u03c4\u03bf \u03be\u03b1\u03bd\u03b1\u03bb\u03ad\u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc...\n\u0398\u03b1\u03cd\u03bc\u03b1\u03c4\u03b1 \u03bc\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03ba\u03ac\u03bd\u03c9\n\u0391\u03c6\u03bf\u03cd \u03be\u03ad\u03c1\u03b5\u03b9\u03c2 \u03c0\u03c9\u03c2 \u03b5\u03b3\u03ce...Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1997553",
+   "artist_names": "Thanos petrelis",
+   "full_title": "Eftihos by\u00a0Thanos\u00a0petrelis",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "id": 1997553,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thanos-petrelis-eftihos-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Eftihos",
+   "title_with_featured": "Eftihos",
+   "url": "https://genius.com/Thanos-petrelis-eftihos-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/459211",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "id": 459211,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thanos petrelis",
+    "url": "https://genius.com/artists/Thanos-petrelis"
+   },
+   "apple_music_id": "349605552",
+   "apple_music_player_url": "https://genius.com/songs/1997553/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1997553' class='rg_embed_link' data-song-id='1997553'>Read <a href='https://genius.com/Thanos-petrelis-eftihos-lyrics'>\u201cEftihos\u201d by Thanos\u00a0petrelis</a> on Genius</div> <script crossorigin src='//genius.com/songs/1997553/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6685015",
+    "classification": "needs_exegesis",
+    "fragment": "Eftihos",
+    "id": 6685015,
+    "is_description": true,
+    "path": "/6685015/Thanos-petrelis-eftihos/Eftihos",
+    "range": {
+     "content": "Eftihos"
+    },
+    "song_id": 1997553,
+    "url": "https://genius.com/6685015/Thanos-petrelis-eftihos/Eftihos",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1997553",
+     "client_timestamps": {
+      "updated_by_human_at": 1446158067,
+      "lyrics_updated_at": 1432940695
+     },
+     "context": "Thanos petrelis",
+     "id": 1997553,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+     "link_title": "Eftihos by\u00a0Thanos\u00a0petrelis",
+     "title": "Eftihos",
+     "type": "Song",
+     "url": "https://genius.com/Thanos-petrelis-eftihos-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6685015",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6685015,
+      "pinned": false,
+      "share_url": "https://genius.com/6685015",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6685015/Thanos-petrelis-eftihos/Eftihos",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thanos petrelis",
+   "lyrics": "Eftihos LyricsLigo elipse eksetias su na trelatho\nLigo elipse apo esena na katastrafo\nKi oti ehtiza\nKi oti ehtiza gia mia zoi\nLigo elipse eksetias su na gkremisti\n\nMa eftihos pu iparhi akoma Theos\nKe me glitose ena lepto prin mu kanis megalo kako\nEftihos pu ki an perasa tosa polla\nTa katafera ke telika se kseperasa\nSe kseperasa, se kseperasa ke ime kala\n\nLigo elipse osa kerdisa se mia zoi\nEksetias su na ta haso se mia stigmi\n\nMa eftihos pu iparhi akoma Theos\nKe me glitose ena lepto prin mu kanis megalo kako\nEftihos pu ki an perasa tosa polla\nTa katafera ke telika se kseperasa\nSe kseperasa, se kseperasa ke ime kalaEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2205196",
+   "artist_names": "Thanos petrelis",
+   "full_title": "Kernao by\u00a0Thanos\u00a0petrelis",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "id": 2205196,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thanos-petrelis-kernao-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Kernao",
+   "title_with_featured": "Kernao",
+   "url": "https://genius.com/Thanos-petrelis-kernao-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/459211",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "id": 459211,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thanos petrelis",
+    "url": "https://genius.com/artists/Thanos-petrelis"
+   },
+   "apple_music_id": "251009656",
+   "apple_music_player_url": "https://genius.com/songs/2205196/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2205196' class='rg_embed_link' data-song-id='2205196'>Read <a href='https://genius.com/Thanos-petrelis-kernao-lyrics'>\u201cKernao\u201d by Thanos\u00a0petrelis</a> on Genius</div> <script crossorigin src='//genius.com/songs/2205196/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7310446",
+    "classification": "needs_exegesis",
+    "fragment": "Kernao",
+    "id": 7310446,
+    "is_description": true,
+    "path": "/7310446/Thanos-petrelis-kernao/Kernao",
+    "range": {
+     "content": "Kernao"
+    },
+    "song_id": 2205196,
+    "url": "https://genius.com/7310446/Thanos-petrelis-kernao/Kernao",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2205196",
+     "client_timestamps": {
+      "updated_by_human_at": 1447113361,
+      "lyrics_updated_at": 1436822713
+     },
+     "context": "Thanos petrelis",
+     "id": 2205196,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+     "link_title": "Kernao by\u00a0Thanos\u00a0petrelis",
+     "title": "Kernao",
+     "type": "Song",
+     "url": "https://genius.com/Thanos-petrelis-kernao-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7310446",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7310446,
+      "pinned": false,
+      "share_url": "https://genius.com/7310446",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7310446/Thanos-petrelis-kernao/Kernao",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thanos petrelis",
+   "lyrics": "Kernao Lyrics\u0628\u0627 \u0645\u0646\u060c \u062f\u0644 \u0634\u06a9\u0633\u062a\u0646 \u0647\u0627\u06cc \u0647\u0631 \u0634\u0628\u060c \u062d\u0633\u06cc \u06a9\u0647 \u06af\u0645 \u0628\u0648\u062f \u062a\u0648 \u062e\u0646\u062f\u0647 \u0647\u0627\u0645\u0648\u0646\n\u0628\u0627 \u062a\u0648\u060c \u0642\u0635\u0647 \u06cc \u0639\u0634\u0642\u06cc \u06a9\u0647 \u0622\u0631\u0648\u0645 \u0631\u062f\u0634\u0648 \u06af\u0645 \u06a9\u0631\u062f\u060c \u0627\u0632 \u062a\u0648 \u0635\u062f\u0627\u0645\u0648\u0646\n\u0645\u0646 \u0628\u0627 \u062a\u0648 \u06af\u0631\u06cc\u0647 \u06a9\u0631\u062f\u0645\u060c \u0647\u0631 \u0634\u0628 \u062f\u0644\u0648\u0627\u067e\u0633 \u062d\u0627\u0644 \u062a\u0648 \u0628\u0648\u062f\u0645\n\u0645\u0646 \u0645\u062b\u0644 \u0633\u0627\u06cc\u0647 \u0622\u0631\u0648\u0645\u060c \u0647\u0631 \u062c\u0627 \u0628\u0648\u062f\u06cc \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u062a\u0648 \u0628\u0648\u062f\u0645\n\u062a\u0648 \u062d\u062a\u06cc \u062f\u0644 \u0646\u062f\u0627\u062f\u06cc\u060c \u06cc\u06a9 \u0633\u0627\u0639\u062a \u0628\u0627 \u0647\u0648\u0627\u06cc \u062a\u0648 \u0628\u0646\u0634\u06cc\u0646\u0645\n\u0628\u06cc\u062f\u0627\u0631\u0645 \u06a9\u0646 \u0627\u0632 \u0627\u06cc\u0646 \u062e\u0648\u0627\u0628\u060c \u0645\u0646 \u0647\u0631 \u0634\u0628 \u062e\u0648\u0627\u0628 \u0686\u0634\u0645\u0627\u062a\u0648 \u0645\u06cc\u0628\u06cc\u0646\u0645\n\u0628\u06cc \u0645\u0646 \u0631\u0641\u062a\u06cc\u060c \u0628\u06cc \u062a\u0648 \u0645\u0648\u0646\u062f\u0645\u060c \u0639\u0634\u0642\u06cc \u0628\u06cc\u0646 \u0645\u0627 \u0628\u0648\u062f \u0648 \u067e\u0646\u0647\u0648\u0646 \u0634\u062f\n\u0645\u0646 \u062f\u0648\u0631 \u0627\u0632 \u062a\u0648\u060c \u062a\u0648 \u062f\u0648\u0631 \u0627\u0632 \u0645\u0646\u060c \u0686\u0634\u0645\u06cc \u06af\u0631\u06cc\u0647 \u06a9\u0631\u062f \u0648 \u062f\u0644\u06cc \u062e\u0648\u0646 \u0634\u062f\n\u062f\u0631\u062f\u06cc \u067e\u0646\u0647\u0648\u0646\u060c \u062f\u0631 \u062c\u0627\u0646 \u062f\u0627\u0631\u06cc\u0645\u060c \u062f\u0644\u062a\u0646\u06af\u06cc \u0628\u0628\u06cc\u0646 \u062f\u0631\u0645\u0627\u0646 \u0645\u0627 \u0646\u06cc\u0633\u062a\n\u062e\u0627\u0645\u0648\u0634\u0645 \u0645\u0646\u060c \u062e\u0627\u0645\u0648\u0634\u06cc \u062a\u0648\u060c \u062e\u0627\u0645\u0648\u0634\u06cc \u0628\u062f\u0648\u0646 \u067e\u0627\u06cc\u0627\u0646 \u0645\u0627 \u0646\u06cc\u0633\u062a\n\u062a\u0646\u0647\u0627\u0633\u062a\u060c \u062c\u0627\u0646 \u0628\u06cc\u062f\u0627\u0631\u06cc \u06a9\u0647 \u0647\u0631 \u0634\u0628\u060c \u0628\u06cc \u062a\u0648 \u0646\u0634\u0633\u062a\u0647\u060c \u063a\u0645\u06af\u06cc\u0646 \u0648 \u062e\u0633\u062a\u0647\n\u062a\u0646\u0647\u0627\u0633\u062a\u060c \u0631\u0648\u062d \u0628\u06cc \u062a\u0627\u0628\u06cc \u06a9\u0647 \u0647\u0631 \u0631\u0648\u0632\u060c \u0628\u0639\u062f \u062a\u0646\u0647\u0627\u06cc\u06cc\u060c \u062f\u0644 \u0628\u0647 \u062a\u0648 \u0628\u0633\u062a\u0647\n\u0648\u0627\u06cc \u0627\u0632 \u0645\u0646 \u0645\u062b\u0644 \u0647\u0631 \u0634\u0628\u060c \u0627\u0632 \u0639\u0634\u0642\u062a \u0642\u0635\u0647 \u0627\u06cc \u0631\u0648\u06cc\u0627\u06cc\u06cc \u062f\u0627\u0631\u0645\n\u0648\u0627\u06cc \u0627\u0632 \u062a\u0648 \u0645\u062b\u0644 \u0647\u0631 \u0631\u0648\u0632\u060c \u0622\u063a\u0648\u0634\u06cc \u062e\u0633\u062a\u0647 \u0627\u0632 \u062a\u0646\u0647\u0627\u06cc\u06cc \u062f\u0627\u0631\u06cc\n\u0648\u0627\u06cc \u0627\u0632 \u062a\u0648 \u062a\u0627 \u0646\u0628\u0627\u0634\u06cc\u060c \u0628\u06cc \u062a\u0627\u0628\u06cc \u0645\u062b\u0644 \u0627\u0628\u0631\u06cc \u062f\u0648\u0631 \u0648 \u062a\u0646\u0647\u0627\n\u0648\u0627\u06cc \u0627\u0632 \u0645\u0646 \u062a\u0627 \u0646\u0628\u0627\u0631\u0645\u060c \u0686\u0648\u0646 \u0628\u0627\u0631\u0627\u0646 \u0628\u0631\u0646\u0645\u06cc\u06af\u0631\u062f\u0645 \u0628\u0647 \u062f\u0646\u06cc\u0627\n\u06cc\u0627 \u062f\u0644 \u06a9\u0646\u062f\u0646\u060c \u06cc\u0627 \u062f\u0644 \u0628\u0633\u062a\u0646\u060c \u0645\u0646 \u0628\u0627 \u0639\u0634\u0642 \u062a\u0648 \u0632\u0646\u062f\u0647 \u0645\u06cc\u0645\u0648\u0646\u0645\n\u0645\u0646 \u062f\u0648\u0631 \u0627\u0632 \u062a\u0648\u060c \u062a\u0648 \u062f\u0648\u0631 \u0627\u0632 \u0645\u0646\u060c \u0645\u0646 \u067e\u0627\u06cc\u0627\u0646 \u0627\u06cc\u0646 \u0639\u0634\u0642\u0648 \u0645\u06cc\u062f\u0648\u0646\u0645\n\u062f\u0631\u062f\u06cc \u067e\u0646\u0647\u0648\u0646\u060c \u062f\u0631 \u062c\u0627\u0646 \u062f\u0627\u0631\u06cc\u0645\u060c \u062f\u0644\u062a\u0646\u06af\u06cc \u0628\u0628\u06cc\u0646 \u062f\u0631\u0645\u0627\u0646 \u0645\u0627 \u0646\u06cc\u0633\u062a\n\u062e\u0627\u0645\u0648\u0634\u0645 \u0645\u0646\u060c \u062e\u0627\u0645\u0648\u0634\u06cc \u062a\u0648\u060c \u062e\u0627\u0645\u0648\u0634\u06cc \u0628\u062f\u0648\u0646 \u067e\u0627\u06cc\u0627\u0646 \u0645\u0627 \u0646\u06cc\u0633\u062a\n\u0628\u06cc \u0645\u0646 \u0631\u0641\u062a\u06cc\u060c \u0628\u06cc \u0645\u0646 \u0631\u0641\u062a\u06cc\u060c \u0628\u06cc \u0645\u0646 \u0631\u0641\u062a\u06cc\u060c \u0631\u0641\u062a\u06cc \u0631\u0641\u062a\u06cc \u0631\u0641\u062a\u06cc\n\u0628\u06cc \u0645\u0646 \u0631\u0641\u062a\u06cc\u060c \u0628\u06cc \u062a\u0648 \u0645\u0648\u0646\u062f\u0645 \u060c\u0639\u0634\u0642\u06cc \u0628\u06cc\u0646 \u0645\u0627 \u0628\u0648\u062f \u0648 \u067e\u0646\u0647\u0648\u0646 \u0634\u062f\n\u0645\u0646 \u062f\u0648\u0631 \u0627\u0632 \u062a\u0648\u060c \u062a\u0648 \u062f\u0648\u0631 \u0627\u0632 \u0645\u0646\u060c \u0686\u0634\u0645\u06cc \u06af\u0631\u06cc\u0647 \u06a9\u0631\u062f \u0648 \u062f\u0644\u06cc \u062e\u0648\u0646 \u0634\u062f\n\u062f\u0631\u062f\u06cc \u067e\u0646\u0647\u0648\u0646\u060c \u062f\u0631 \u062c\u0627\u0646 \u062f\u0627\u0631\u06cc\u0645\u060c \u062f\u0644\u062a\u0646\u06af\u06cc \u0628\u0628\u06cc\u0646 \u062f\u0631\u0645\u0627\u0646 \u0645\u0627 \u0646\u06cc\u0633\u062a\n\u062e\u0627\u0645\u0648\u0634\u0645 \u0645\u0646\u060c \u062e\u0627\u0645\u0648\u0634\u06cc \u062a\u0648\u060c \u062e\u0627\u0645\u0648\u0634\u06cc \u0628\u062f\u0648\u0646 \u067e\u0627\u06cc\u0627\u0646 \u0645\u0627 \u0646\u06cc\u0633\u062aEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2208196",
+   "artist_names": "Thanos petrelis",
+   "full_title": "Adiorthoti by\u00a0Thanos\u00a0petrelis",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "id": 2208196,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thanos-petrelis-adiorthoti-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Adiorthoti",
+   "title_with_featured": "Adiorthoti",
+   "url": "https://genius.com/Thanos-petrelis-adiorthoti-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/459211",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "id": 459211,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thanos petrelis",
+    "url": "https://genius.com/artists/Thanos-petrelis"
+   },
+   "apple_music_id": "260037724",
+   "apple_music_player_url": "https://genius.com/songs/2208196/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2208196' class='rg_embed_link' data-song-id='2208196'>Read <a href='https://genius.com/Thanos-petrelis-adiorthoti-lyrics'>\u201cAdiorthoti\u201d by Thanos\u00a0petrelis</a> on Genius</div> <script crossorigin src='//genius.com/songs/2208196/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7313924",
+    "classification": "needs_exegesis",
+    "fragment": "Adiorthoti",
+    "id": 7313924,
+    "is_description": true,
+    "path": "/7313924/Thanos-petrelis-adiorthoti/Adiorthoti",
+    "range": {
+     "content": "Adiorthoti"
+    },
+    "song_id": 2208196,
+    "url": "https://genius.com/7313924/Thanos-petrelis-adiorthoti/Adiorthoti",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2208196",
+     "client_timestamps": {
+      "updated_by_human_at": 1447113389,
+      "lyrics_updated_at": 1436824045
+     },
+     "context": "Thanos petrelis",
+     "id": 2208196,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+     "link_title": "Adiorthoti by\u00a0Thanos\u00a0petrelis",
+     "title": "Adiorthoti",
+     "type": "Song",
+     "url": "https://genius.com/Thanos-petrelis-adiorthoti-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7313924",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7313924,
+      "pinned": false,
+      "share_url": "https://genius.com/7313924",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7313924/Thanos-petrelis-adiorthoti/Adiorthoti",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thanos petrelis",
+   "lyrics": "Adiorthoti Lyrics\u0395\u03af\u03c7\u03b1 \u03b1\u03ba\u03bf\u03cd\u03c3\u03b5\u03b9 \u03b3\u03b9\u03b1 \u03b5\u03c3\u03ad\u03bd\u03b1 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b5\u03c2 \u03c6\u03bf\u03b2\u03b5\u03c1\u03ad\u03c2\n\u039c\u03b1 \u03b4\u03b5\u03bd \u03c0\u03af\u03c3\u03c4\u03b5\u03c5\u03b1 \u03c0\u03bf\u03c4\u03ad \u03bc\u03bf\u03c5 \u03cc\u03c4\u03b9 \u03ae\u03c4\u03b1\u03bd \u03b1\u03bb\u03b7\u03b8\u03b9\u03bd\u03ad\u03c2...\n\u03a0\u03af\u03c3\u03c4\u03b5\u03c5\u03b1 \u03cc\u03c4\u03b9 \u03b8' \u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03ad\u03ba\u03b1\u03bd\u03b1 \u03c5\u03c0\u03bf\u03bc\u03bf\u03bd\u03ae\n\u039c\u03b1 \u03cc\u03c3\u03bf \u03c0\u03ae\u03b3\u03b1\u03b9\u03bd\u03b5 \u03b3\u03b9\u03bd\u03cc\u03c3\u03bf\u03c5\u03bd \u03cc\u03bb\u03bf \u03ba\u03b1\u03b9 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b7...\n\n\u0393\u03b9\u03b1\u03c4\u03af \u03ae\u03c3\u03bf\u03c5\u03bd \u03b1\u03b4\u03b9\u03cc\u03c1\u03b8\u03c9\u03c4\u03b7\n\u03a3\u03c5\u03bd\u03b5\u03c7\u03ce\u03c2 \u03c4\u03b1 \u03af\u03b4\u03b9\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9\u03c2\n\u0391\u03b4\u03b9\u03cc\u03c1\u03b8\u03c9\u03c4\u03b7\n\u039a\u03cc\u03bd\u03c4\u03b5\u03c8\u03b5\u03c2 \u03bd\u03b1 \u03bc\u03b5 \u03c0\u03b5\u03b8\u03ac\u03bd\u03b5\u03b9\u03c2\n\u0391\u03b4\u03b9\u03cc\u03c1\u03b8\u03c9\u03c4\u03b7\n\u0391\u03c0\u03b1\u03c1\u03ac\u03bb\u03bb\u03b1\u03c7\u03c4\u03b7 \u03ad\u03c7\u03b5\u03b9\u03c2 \u03bc\u03b5\u03af\u03bd\u03b5\u03b9\n\u0391\u03b4\u03b9\u03cc\u03c1\u03b8\u03c9\u03c4\u03b7\n\u039f \u0398\u03b5\u03cc\u03c2 \u03c0\u03b9\u03b1 \u03b8\u03b1 \u03c3\u03b5 \u03ba\u03c1\u03af\u03bd\u03b5\u03b9...\n\n\u03a0\u03af\u03c3\u03c4\u03b5\u03c5\u03b1 \u03c0\u03c9\u03c2 \u03b8\u03b1 \u03c3\u03b5 \u03c6\u03ad\u03c1\u03c9 \u03c3\u03c4\u03b1 \u03bd\u03b5\u03c1\u03ac \u03bc\u03bf\u03c5 \u03c4\u03b5\u03bb\u03b9\u03ba\u03ac\n\u039c\u03b1 \u03ba\u03b9 \u03b5\u03b3\u03ce \u03c3\u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c3\u03ae\u03ba\u03c9\u03c3\u03b1 \u03c4\u03b1 \u03c7\u03ad\u03c1\u03b9\u03b1 \u03bc\u03bf\u03c5 \u03c8\u03b7\u03bb\u03ac...\n\u03a0\u03af\u03c3\u03c4\u03b5\u03c8\u03b1 \u03cc\u03c4\u03b9 \u03bc\u03b1\u03b6\u03af \u03c3\u03bf\u03c5 \u03b8\u03b1 \u03c4\u03b1 \u03b2\u03b3\u03ac\u03bb\u03c9 \u03c0\u03ad\u03c1\u03b1 \u03b5\u03b3\u03ce\n\u039c\u03b1 \u03ba\u03b1\u03c4\u03ac\u03bb\u03b1\u03b2\u03b1 \u03c3\u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03cc\u03c4\u03b9 \u03ae\u03c4\u03b1\u03bd \u03b1\u03b4\u03cd\u03bd\u03b1\u03c4\u03bf\u03bd...Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2080668",
+   "artist_names": "Thanos petrelis",
+   "full_title": "Zoi alitissa by\u00a0Thanos\u00a0petrelis",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "id": 2080668,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thanos-petrelis-zoi-alitissa-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Zoi alitissa",
+   "title_with_featured": "Zoi alitissa",
+   "url": "https://genius.com/Thanos-petrelis-zoi-alitissa-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/459211",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "id": 459211,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thanos petrelis",
+    "url": "https://genius.com/artists/Thanos-petrelis"
+   },
+   "apple_music_id": "259769429",
+   "apple_music_player_url": "https://genius.com/songs/2080668/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2080668' class='rg_embed_link' data-song-id='2080668'>Read <a href='https://genius.com/Thanos-petrelis-zoi-alitissa-lyrics'>\u201cZoi alitissa\u201d by Thanos\u00a0petrelis</a> on Genius</div> <script crossorigin src='//genius.com/songs/2080668/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6820602",
+    "classification": "needs_exegesis",
+    "fragment": "Zoi alitissa",
+    "id": 6820602,
+    "is_description": true,
+    "path": "/6820602/Thanos-petrelis-zoi-alitissa/Zoi-alitissa",
+    "range": {
+     "content": "Zoi alitissa"
+    },
+    "song_id": 2080668,
+    "url": "https://genius.com/6820602/Thanos-petrelis-zoi-alitissa/Zoi-alitissa",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2080668",
+     "client_timestamps": {
+      "updated_by_human_at": 1446504194,
+      "lyrics_updated_at": 1433956111
+     },
+     "context": "Thanos petrelis",
+     "id": 2080668,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+     "link_title": "Zoi alitissa by\u00a0Thanos\u00a0petrelis",
+     "title": "Zoi alitissa",
+     "type": "Song",
+     "url": "https://genius.com/Thanos-petrelis-zoi-alitissa-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6820602",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6820602,
+      "pinned": false,
+      "share_url": "https://genius.com/6820602",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6820602/Thanos-petrelis-zoi-alitissa/Zoi-alitissa",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thanos petrelis",
+   "lyrics": "Zoi alitissa LyricsMetraga ta logia mu\nKe ta vimata mu\nMa pote den evala\nMetro stin kardia mu\nTi zoi mu ksodepsa\nMes tis aftapates\nS' onira anekplirota\nPseftikes agapes\n\nMa ti su zitisa\nZoi alitissa\nMonaha mia kardia na m' agapai\nKi esi ti mu edoses\nAgapes pseftikes\nKi ena parapono\nSta matia na kilai\nMa ti su zitasa zoi alitissa\nMonaha mia ankalia na me horai\nKi esi ti mu edoses\nPseftikus erotes\nKi ena skari\nPu olo navagia metrai\nEkriva ton fovo mu\nTa parapona mu\nMa pote den ekripsa\nTa esthimata mu\nEdosa to ine mu\nKi oli tin psihi mu\nKi ehasa to oniro\nKe tin dinami mu\n\nMa ti su zitisa\nZoi alitissa\nMonaha mia kardia na m' agapai\nKi esi ti mu edoses\nAgapes pseftikes\nKi ena parapono\nSta matia na kilai\nMa ti su zitasa zoi alitissa\nMonaha mia ankalia na me horai\nKi esi ti mu edoses\nPseftikus erotes\nKi ena skari\nPu olo navagia metrai\n\nMa ti su zitisa\nZoi alitissa\nMonaha mia kardia na m' agapai\nKi esi ti mu edoses\nAgapes pseftikes\nKi ena parapono\nSta matia na kilai\nMa ti su zitasa zoi alitissa\nMonaha mia ankalia na me horai\nKi esi ti mu edoses\nPseftikus erotes\nKi ena skari\nPu olo navagia metraiEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2087080",
+   "artist_names": "Thanos petrelis",
+   "full_title": "Thimizis kati apo ellada by\u00a0Thanos\u00a0petrelis",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "id": 2087080,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thanos-petrelis-thimizis-kati-apo-ellada-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Thimizis kati apo ellada",
+   "title_with_featured": "Thimizis kati apo ellada",
+   "url": "https://genius.com/Thanos-petrelis-thimizis-kati-apo-ellada-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/459211",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "id": 459211,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thanos petrelis",
+    "url": "https://genius.com/artists/Thanos-petrelis"
+   },
+   "apple_music_id": "349605559",
+   "apple_music_player_url": "https://genius.com/songs/2087080/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2087080' class='rg_embed_link' data-song-id='2087080'>Read <a href='https://genius.com/Thanos-petrelis-thimizis-kati-apo-ellada-lyrics'>\u201cThimizis kati apo ellada\u201d by Thanos\u00a0petrelis</a> on Genius</div> <script crossorigin src='//genius.com/songs/2087080/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6827064",
+    "classification": "needs_exegesis",
+    "fragment": "Thimizis kati apo ellada",
+    "id": 6827064,
+    "is_description": true,
+    "path": "/6827064/Thanos-petrelis-thimizis-kati-apo-ellada/Thimizis-kati-apo-ellada",
+    "range": {
+     "content": "Thimizis kati apo ellada"
+    },
+    "song_id": 2087080,
+    "url": "https://genius.com/6827064/Thanos-petrelis-thimizis-kati-apo-ellada/Thimizis-kati-apo-ellada",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2087080",
+     "client_timestamps": {
+      "updated_by_human_at": 1446843976,
+      "lyrics_updated_at": 1433957356
+     },
+     "context": "Thanos petrelis",
+     "id": 2087080,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+     "link_title": "Thimizis kati apo ellada by\u00a0Thanos\u00a0petrelis",
+     "title": "Thimizis kati apo ellada",
+     "type": "Song",
+     "url": "https://genius.com/Thanos-petrelis-thimizis-kati-apo-ellada-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6827064",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6827064,
+      "pinned": false,
+      "share_url": "https://genius.com/6827064",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6827064/Thanos-petrelis-thimizis-kati-apo-ellada/Thimizis-kati-apo-ellada",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thanos petrelis",
+   "lyrics": "Thimizis kati apo ellada LyricsTi, ti na skeftotan o Theos\nOtan se eftiahne ke pos na 'he niosi\nTi, mipos se ihe erotefti\nKi afu se estile sti gi\nTora na to 'hi metaniosi\n\nEsi, agapi ki erotas mazi\nHroma lefko me thalassi\nThimizis kati apo Ellada\nEsi, prosopo aggelu pu gela\nKi erimiki mu akrogialia\nSkorpizis erota sto diava\n\nSkorpizis erota sto diava\n\nTi, pes mu an gennithikes edo\nI epeses ap' ton urano san tis stales\nTi, pes mu o Theos ti theori\nAggelos ise i thniti san tis alles\nEsi, agapi ki erotas mazi\nHroma lefko me thalassi\nThimizis kati apo Ellada\nEsi, prosopo aggelu pu gela\nKi erimiki mu akrogialia\nSkorpizis erota sto diava\n\nSkorpizis erota sto diava\n\nProsopo aggelu pu gela\nKi erimiki mu akrogialia\n\nProsopo aggelu pu gela\nKi erimiki mu akrogialiaEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2247318",
+   "artist_names": "Thanos petrelis",
+   "full_title": "Efharisto by\u00a0Thanos\u00a0petrelis",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "id": 2247318,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thanos-petrelis-efharisto-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Efharisto",
+   "title_with_featured": "Efharisto",
+   "url": "https://genius.com/Thanos-petrelis-efharisto-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/459211",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "id": 459211,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651860076",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thanos petrelis",
+    "url": "https://genius.com/artists/Thanos-petrelis"
+   },
+   "apple_music_id": "300465412",
+   "apple_music_player_url": "https://genius.com/songs/2247318/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2247318' class='rg_embed_link' data-song-id='2247318'>Read <a href='https://genius.com/Thanos-petrelis-efharisto-lyrics'>\u201cEfharisto\u201d by Thanos\u00a0petrelis</a> on Genius</div> <script crossorigin src='//genius.com/songs/2247318/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7386531",
+    "classification": "needs_exegesis",
+    "fragment": "Efharisto",
+    "id": 7386531,
+    "is_description": true,
+    "path": "/7386531/Thanos-petrelis-efharisto/Efharisto",
+    "range": {
+     "content": "Efharisto"
+    },
+    "song_id": 2247318,
+    "url": "https://genius.com/7386531/Thanos-petrelis-efharisto/Efharisto",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2247318",
+     "client_timestamps": {
+      "updated_by_human_at": 1447110093,
+      "lyrics_updated_at": 1437142997
+     },
+     "context": "Thanos petrelis",
+     "id": 2247318,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651860076",
+     "link_title": "Efharisto by\u00a0Thanos\u00a0petrelis",
+     "title": "Efharisto",
+     "type": "Song",
+     "url": "https://genius.com/Thanos-petrelis-efharisto-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7386531",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7386531,
+      "pinned": false,
+      "share_url": "https://genius.com/7386531",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7386531/Thanos-petrelis-efharisto/Efharisto",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thanos petrelis",
+   "lyrics": "Efharisto Lyrics\u03a0\u03af\u03c3\u03c9 \u03bc\u03bf\u03c5 \u03ad\u03c1\u03c7\u03b5\u03c3\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1\u03bd\u03b9\u03c9\u03bc\u03ad\u03bd\u03b7\n\u039c\u03bf\u03c5 \u03b6\u03b7\u03c4\u03ac\u03c2 \u03c3\u03c5\u03b3\u03b3\u03bd\u03ce\u03bc\u03b7 \u03b4\u03b1\u03ba\u03c1\u03c5\u03c3\u03bc\u03ad\u03bd\u03b7\n\u039b\u03b5\u03c2 \u03c0\u03c9\u03c2 \u03ac\u03bb\u03bb\u03b1\u03be\u03b5 \u03bc\u03b1 \u03bc\u03b7 \u03c6\u03bf\u03b2\u03ac\u03c3\u03b1\u03b9\n\u0394\u03b5\u03bd \u03bc\u03b5 \u03c0\u03b5\u03af\u03b8\u03b5\u03b9\u03c2 \u03bc\u03b9\u03b1 \u03b1\u03c0' \u03c4\u03b1 \u03af\u03b4\u03b9\u03b1 \u03b8\u03b1 '\u03c3\u03b1\u03b9\n\n\u03a4\u03ce\u03c1\u03b1 \u03b1\u03b3\u03ac\u03c0\u03b7 \u03b8\u03ad\u03bb\u03b5\u03b9\u03c2 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03b4\u03ce\u03c3\u03b5\u03b9\u03c2\n\u039a\u03b1\u03b9 \u03c4\u03b1 \u03bb\u03ac\u03b8\u03b7 \u03c3\u03bf\u03c5 \u03bd\u03b1 \u03b4\u03b9\u03bf\u03c1\u03b8\u03ce\u03c3\u03b5\u03b9\u03c2\n\u0394\u03b5\u03bb\u03b5\u03b1\u03c3\u03c4\u03b9\u03ba\u03ae \u03b7 \u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ac \u03c3\u03bf\u03c5\n\u039c\u03b1 \u03b1\u03b3\u03ac\u03c0\u03b7 \u03bc\u03bf\u03c5\n\n\u0395\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03ce \u03b4\u03b5 \u03b8\u03b1 \u03c0\u03ac\u03c1\u03c9\n\u039c\u03b1\u03b6\u03af \u03c3\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c4\u03bf \u03c1\u03b9\u03c3\u03ba\u03ac\u03c1\u03c9\n\u0394\u03b5\u03bd \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 '\u03c7\u03c9 \u03ac\u03bb\u03bb\u03b7 \u03bc\u03af\u03b1\n\u03a4\u03c1\u03b1\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1\n\n\u0395\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03ce \u03b4\u03b5 \u03b8\u03b1 \u03c0\u03ac\u03c1\u03c9\n\u03a3\u03c5\u03b3\u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b1 \u03b4\u03b5 \u03b3\u03bf\u03c5\u03c3\u03c4\u03ac\u03c1\u03c9\n\u039d\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03ac\u03bb\u03bb\u03bf \u03c0\u03b1\u03c1\u03ad\u03b1\n\u039c\u03cc\u03bd\u03bf\u03c2 \u03c0\u03b5\u03c1\u03bd\u03ac\u03c9 \u03c0\u03b9\u03bf \u03c9\u03c1\u03b1\u03af\u03b1\n\u039a\u03b9 \u03b1\u03c0\u03cc \u03ba\u03b5\u03b9 \u03c0\u03bf\u03c5 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03ae\u03c3\u03bf\u03c5\u03bd \u03b1\u03c0\u03bf\u03cd\u03c3\u03b1\n\u038c\u03c4\u03b1\u03bd \u03c5\u03c0\u03ad\u03c6\u03b5\u03c1\u03b1 \u03ba\u03b9 \u03cc\u03c4\u03b1\u03bd \u03c0\u03bf\u03bd\u03bf\u03cd\u03c3\u03b1\n\u03a4\u03ce\u03c1\u03b1 \u03b8\u03b5\u03c2 \u03bd\u03b1 \u03bc\u03b5 \u03c0\u03b5\u03af\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b9 \u03b5\u03c0\u03b9\u03bc\u03ad\u03bd\u03b5\u03b9\u03c2\n\u03a0\u03c9\u03c2 \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03b5\u03c3\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03c0\u03c9\u03c2 \u03c0\u03b5\u03b8\u03b1\u03af\u03bd\u03b5\u03b9\u03c2\n\n\u039c\u03b1 \u03bc\u03c9\u03c1\u03cc \u03bc\u03bf\u03c5 \u03c3\u03c4\u03bf \u03b5\u03c0\u03b1\u03bd\u03b1\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03c9\n\u03a4\u03bf \u03af\u03b4\u03b9\u03bf \u03bb\u03ac\u03b8\u03bf\u03c2 \u03b4\u03c5\u03bf \u03c6\u03bf\u03c1\u03ad\u03c2 \u03b4\u03b5\u03bd \u03ba\u03ac\u03bd\u03c9\n\u0386\u03ba\u03bf\u03c5\u03c3\u03b1 \u03bb\u03bf\u03b9\u03c0\u03cc\u03bd \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ac \u03c3\u03bf\u03c5\n\u039a\u03b9 \u03ad\u03c7\u03c9 \u03bd\u03b1 \u03c3\u03bf\u03c5 \u03c0\u03c9\n\n\u0395\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03ce \u03b4\u03b5 \u03b8\u03b1 \u03c0\u03ac\u03c1\u03c9\n\u039c\u03b1\u03b6\u03af \u03c3\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c4\u03bf \u03c1\u03b9\u03c3\u03ba\u03ac\u03c1\u03c9\n\u0394\u03b5\u03bd \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 '\u03c7\u03c9 \u03ac\u03bb\u03bb\u03b7 \u03bc\u03af\u03b1\n\u03a4\u03c1\u03b1\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1\n\n\u0395\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03ce \u03b4\u03b5 \u03b8\u03b1 \u03c0\u03ac\u03c1\u03c9\n\u03a3\u03c5\u03b3\u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b1 \u03b4\u03b5 \u03b3\u03bf\u03c5\u03c3\u03c4\u03ac\u03c1\u03c9\n\u039d\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03ac\u03bb\u03bb\u03bf \u03c0\u03b1\u03c1\u03ad\u03b1\n\u039c\u03cc\u03bd\u03bf\u03c2 \u03c0\u03b5\u03c1\u03bd\u03ac\u03c9 \u03c0\u03b9\u03bf \u03c9\u03c1\u03b1\u03af\u03b1Embed"
+  }
+ ]
+}

@@ -1,0 +1,3423 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/481513",
+ "description": {
+  "plain": "\u039f \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039c\u03b7\u03c4\u03c1\u03bf\u03c0\u03ac\u03bd\u03bf\u03c2 (\u03a4\u03c1\u03af\u03ba\u03b1\u03bb\u03b1, 2 \u0391\u03c0\u03c1\u03b9\u03bb\u03af\u03bf\u03c5 1948 \u2013 \u0391\u03b8\u03ae\u03bd\u03b1, 17 \u0391\u03c0\u03c1\u03b9\u03bb\u03af\u03bf\u03c5 2012) \u03ae\u03c4\u03b1\u03bd \u0388\u03bb\u03bb\u03b7\u03bd\u03b1\u03c2 \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9\u03c3\u03c4\u03ae\u03c2. \u0395\u03c1\u03bc\u03ae\u03bd\u03b5\u03c5\u03c3\u03b5 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ce\u03bd \u03c3\u03c4\u03b9\u03c7\u03bf\u03c5\u03c1\u03b3\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b8\u03b5\u03c4\u03ce\u03bd. \u0398\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9\u03c3\u03c4\u03ad\u03c2 \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03b5\u03c0\u03bf\u03c7\u03ce\u03bd."
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+ "id": 481513,
+ "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Dimitris mitropanos",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Dimitris-mitropanos",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4972646,
+  "annotator_login": "Greekgun",
+  "api_path": "/referents/7126634",
+  "classification": "unreviewed",
+  "fragment": "Dimitris mitropanos",
+  "id": 7126634,
+  "is_description": true,
+  "path": "/7126634/Dimitris-mitropanos/Dimitris-mitropanos",
+  "range": {
+   "content": "Dimitris mitropanos"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7126634/Dimitris-mitropanos/Dimitris-mitropanos",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/481513",
+   "context": null,
+   "id": 481513,
+   "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "link_title": "Dimitris mitropanos",
+   "title": "Dimitris mitropanos",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Dimitris-mitropanos"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7126634",
+    "body": {
+     "plain": "\u039f \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039c\u03b7\u03c4\u03c1\u03bf\u03c0\u03ac\u03bd\u03bf\u03c2 (\u03a4\u03c1\u03af\u03ba\u03b1\u03bb\u03b1, 2 \u0391\u03c0\u03c1\u03b9\u03bb\u03af\u03bf\u03c5 1948 \u2013 \u0391\u03b8\u03ae\u03bd\u03b1, 17 \u0391\u03c0\u03c1\u03b9\u03bb\u03af\u03bf\u03c5 2012) \u03ae\u03c4\u03b1\u03bd \u0388\u03bb\u03bb\u03b7\u03bd\u03b1\u03c2 \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9\u03c3\u03c4\u03ae\u03c2. \u0395\u03c1\u03bc\u03ae\u03bd\u03b5\u03c5\u03c3\u03b5 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ce\u03bd \u03c3\u03c4\u03b9\u03c7\u03bf\u03c5\u03c1\u03b3\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b8\u03b5\u03c4\u03ce\u03bd. \u0398\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03c1\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9\u03c3\u03c4\u03ad\u03c2 \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03b5\u03c0\u03bf\u03c7\u03ce\u03bd."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7126634,
+    "pinned": false,
+    "share_url": "https://genius.com/7126634",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/7126634/Dimitris-mitropanos/Dimitris-mitropanos",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4972646",
+       "avatar": {
+        "tiny": {
+         "url": "https://i.genius.com/67df5b3ff1c94f5b846d2d8305b8a68af31c905b?url=https%3A%2F%2Flh3.googleusercontent.com%2F-KJfpntSb2JI%2FAAAAAAAAAAI%2FAAAAAAAAAgo%2FQ8WzWVSly8g%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://i.genius.com/67df5b3ff1c94f5b846d2d8305b8a68af31c905b?url=https%3A%2F%2Flh3.googleusercontent.com%2F-KJfpntSb2JI%2FAAAAAAAAAAI%2FAAAAAAAAAgo%2FQ8WzWVSly8g%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://i.genius.com/67df5b3ff1c94f5b846d2d8305b8a68af31c905b?url=https%3A%2F%2Flh3.googleusercontent.com%2F-KJfpntSb2JI%2FAAAAAAAAAAI%2FAAAAAAAAAgo%2FQ8WzWVSly8g%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://i.genius.com/67df5b3ff1c94f5b846d2d8305b8a68af31c905b?url=https%3A%2F%2Flh3.googleusercontent.com%2F-KJfpntSb2JI%2FAAAAAAAAAAI%2FAAAAAAAAAgo%2FQ8WzWVSly8g%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xir32om6knf",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4972646,
+       "iq": 181515,
+       "login": "Greekgun",
+       "name": "Greekgun",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Greekgun",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2064935",
+   "artist_names": "Dimitris mitropanos",
+   "full_title": "Roza by\u00a0Dimitris\u00a0mitropanos",
+   "header_image_thumbnail_url": "https://images.genius.com/b10669b61b49d5e34ba8a8c854d225de.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b10669b61b49d5e34ba8a8c854d225de.600x600x1.jpg",
+   "id": 2064935,
+   "lyrics_owner_id": 4972646,
+   "lyrics_state": "complete",
+   "path": "/Dimitris-mitropanos-roza-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": "April 6, 1996",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b10669b61b49d5e34ba8a8c854d225de.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b10669b61b49d5e34ba8a8c854d225de.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9905
+   },
+   "title": "Roza",
+   "title_with_featured": "Roza",
+   "url": "https://genius.com/Dimitris-mitropanos-roza-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/481513",
+    "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+    "id": 481513,
+    "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Dimitris mitropanos",
+    "url": "https://genius.com/artists/Dimitris-mitropanos"
+   },
+   "apple_music_id": "1415041516",
+   "apple_music_player_url": "https://genius.com/songs/2064935/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2064935' class='rg_embed_link' data-song-id='2064935'>Read <a href='https://genius.com/Dimitris-mitropanos-roza-lyrics'>\u201cRoza\u201d by Dimitris\u00a0mitropanos</a> on Genius</div> <script crossorigin src='//genius.com/songs/2064935/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1996-04-06",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/492196",
+    "cover_art_url": "https://images.genius.com/b10669b61b49d5e34ba8a8c854d225de.600x600x1.jpg",
+    "full_title": "\u03a3\u03c4\u03bf\u03c5 \u0391\u03b9\u03ce\u03bd\u03b1 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03ac\u03b3\u03ba\u03b1 (Eternity) by Dimitris mitropanos",
+    "id": 492196,
+    "name": "\u03a3\u03c4\u03bf\u03c5 \u0391\u03b9\u03ce\u03bd\u03b1 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03ac\u03b3\u03ba\u03b1 (Eternity)",
+    "url": "https://genius.com/albums/Dimitris-mitropanos/Eternity",
+    "artist": {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6804712",
+    "classification": "needs_exegesis",
+    "fragment": "Roza",
+    "id": 6804712,
+    "is_description": true,
+    "path": "/6804712/Dimitris-mitropanos-roza/Roza",
+    "range": {
+     "content": "Roza"
+    },
+    "song_id": 2064935,
+    "url": "https://genius.com/6804712/Dimitris-mitropanos-roza/Roza",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2064935",
+     "client_timestamps": {
+      "updated_by_human_at": 1565566584,
+      "lyrics_updated_at": 1546179657
+     },
+     "context": "Dimitris mitropanos",
+     "id": 2064935,
+     "image_url": "https://images.genius.com/b10669b61b49d5e34ba8a8c854d225de.600x600x1.jpg",
+     "link_title": "Roza by\u00a0Dimitris\u00a0mitropanos",
+     "title": "Roza",
+     "type": "Song",
+     "url": "https://genius.com/Dimitris-mitropanos-roza-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6804712",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6804712,
+      "pinned": false,
+      "share_url": "https://genius.com/6804712",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6804712/Dimitris-mitropanos-roza/Roza",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=sliaSXxnNcg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1487676",
+     "header_image_url": "https://images.genius.com/b0a36ebe7ceb3c36871d8fef6623b78b.1000x852x1.png",
+     "id": 1487676,
+     "image_url": "https://images.genius.com/3b958e6061895c4ed09f459fd773e9a8.168x168x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thanos Mikroutsikos",
+     "url": "https://genius.com/artists/Thanos-mikroutsikos"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   ],
+   "artist": "Dimitris mitropanos",
+   "lyrics": "Roza Lyrics\u03a4\u03b1 \u03c7\u03b5\u03af\u03bb\u03b7 \u03bc\u03bf\u03c5 \u03be\u03b5\u03c1\u03ac \u03ba\u03b1\u03b9 \u03b4\u03b9\u03c8\u03b1\u03c3\u03bc\u03ad\u03bd\u03b1\n\u0393\u03c5\u03c1\u03b5\u03cd\u03bf\u03c5\u03bd\u03b5 \u03c3\u03c4\u03b7\u03bd \u03ac\u03c3\u03c6\u03b1\u03bb\u03c4\u03bf \u03bd\u03b5\u03c1\u03cc\n\u03a0\u03b5\u03c1\u03bd\u03ac\u03bd\u03b5 \u03b4\u03af\u03c0\u03bb\u03b1 \u03bc\u03bf\u03c5 \u03c4\u03b1 \u03c4\u03c1\u03bf\u03c7\u03bf\u03c6\u03cc\u03c1\u03b1\n\u039a\u03b1\u03b9 \u03c3\u03c5 \u03bc\u03bf\u03c5 \u03bb\u03b5\u03c2 \u03bc\u03b1\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bc\u03ad\u03bd\u03b5\u03b9 \u03b7 \u03bc\u03c0\u03cc\u03c1\u03b1\n\u039a\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03c1\u03b1\u03b2\u03ac\u03c2 \u03c3\u03b5 \u03ba\u03b1\u03bc\u03c0\u03b1\u03c1\u03ad \u03c5\u03b3\u03c1\u03cc\n\n\u0392\u03b1\u03b4\u03af\u03b6\u03bf\u03c5\u03bc\u03b5 \u03bc\u03b1\u03b6\u03af \u03c3\u03c4\u03bf\u03bd \u03af\u03b4\u03b9\u03bf \u03b4\u03c1\u03cc\u03bc\u03bf\n\u039c\u03b1 \u03c4\u03b1 \u03ba\u03b5\u03bb\u03b9\u03ac \u03bc\u03b1\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c7\u03c9\u03c1\u03b9\u03c3\u03c4\u03ac\n\u03a3\u03b5 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1 \u03bc\u03b1\u03b3\u03b9\u03ba\u03ae \u03b3\u03c5\u03c1\u03bd\u03ac\u03bc\u03b5\n\u0394\u03b5 \u03b8\u03ad\u03bb\u03c9 \u03c0\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03ac\u03b8\u03c9 \u03c4\u03b9 \u03b6\u03b7\u03c4\u03ac\u03bc\u03b5\n\u03a6\u03c4\u03ac\u03bd\u03b5\u03b9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c7\u03b1\u03c1\u03af\u03c3\u03b5\u03b9\u03c2 \u03b4\u03c5\u03bf \u03c6\u03b9\u03bb\u03b9\u03ac\n\n\u039c\u03b5 \u03c0\u03b1\u03af\u03b6\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b7 \u03c1\u03bf\u03c5\u03bb\u03ad\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03c7\u03ac\u03bd\u03b5\u03b9\u03c2\n\u03a3\u03b5 \u03ad\u03bd\u03b1 \u03c0\u03b1\u03c1\u03b1\u03bc\u03cd\u03b8\u03b9 \u03b5\u03c6\u03b9\u03b1\u03bb\u03c4\u03b9\u03ba\u03cc\n\u03a6\u03c9\u03bd\u03ae \u03b5\u03bd\u03c4\u03cc\u03bc\u03bf\u03c5 \u03c4\u03ce\u03c1\u03b1 \u03b5\u03b9\u03bd\u2019 \u03b7 \u03c6\u03c9\u03bd\u03ae \u03bc\u03bf\u03c5\n\u03a6\u03c5\u03c4\u03cc \u03b1\u03bd\u03b1\u03c1\u03c1\u03b9\u03c7\u03ce\u03bc\u03b5\u03bd\u03bf \u03b7 \u03b6\u03c9\u03ae \u03bc\u03bf\u03c5\n\u039c\u03b5 \u03ba\u03cc\u03b2\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03c1\u03af\u03c7\u03bd\u03b5\u03b9\u03c2 \u03c3\u03c4\u03bf \u03ba\u03b5\u03bd\u03cc\n\u03a0\u03ce\u03c2 \u03b7 \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1\n\u03a0\u03ce\u03c2 \u03b7 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b9\u03c9\u03c0\u03ae\n\u03a4\u03b9 \u03bc\u03b5 \u03ba\u03bf\u03b9\u03c4\u03ac\u03b6\u03b5\u03b9\u03c2 \u03a1\u03cc\u03b6\u03b1 \u03bc\u03bf\u03c5\u03b4\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\n\u03a3\u03c5\u03b3\u03c7\u03ce\u03c1\u03b1 \u03bc\u03b5 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03b2\u03b1\u03af\u03bd\u03c9\n\u03a4\u03b9 \u03bb\u03ad\u03bd\u03b5 \u03c4\u03b1 \u03ba\u03bf\u03bc\u03c0\u03b9\u03bf\u03cd\u03c4\u03b5\u03c1\u03c2 \u03ba\u03b9 \u03bf\u03b9 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03af\n\n\u0391\u03b3\u03ac\u03c0\u03b7 \u03bc\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ba\u03ac\u03c1\u03b2\u03bf\u03c5\u03bd\u03bf \u03ba\u03b1\u03b9 \u03b8\u03b5\u03b9\u03ac\u03c6\u03b9\n\u03a0\u03ce\u03c2 \u03c3\u2019 \u03ad\u03c7\u03b5\u03b9 \u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03b9 \u03ad\u03c4\u03c3\u03b9 \u03bf \u03ba\u03b1\u03b9\u03c1\u03cc\u03c2\n\u03a0\u03b5\u03c1\u03bd\u03ac\u03bd\u03b5 \u03c0\u03ac\u03bd\u03c9 \u03bc\u03b1\u03c2 \u03c4\u03b1 \u03c4\u03c1\u03bf\u03c7\u03bf\u03c6\u03cc\u03c1\u03b1\n\u039a\u03b1\u03b9 \u03b3\u03c9 \u03bc\u03ad\u03c3\u2019 \u03c3\u03c4\u03b7\u03bd \u03bf\u03bc\u03af\u03c7\u03bb\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7 \u03bc\u03c0\u03cc\u03c1\u03b1\n\u039a\u03bf\u03b9\u03bc\u03ac\u03bc\u03b1\u03b9 \u03c3\u03c4\u03bf \u03c0\u03bb\u03b5\u03c5\u03c1\u03cc \u03c3\u03bf\u03c5 \u03bd\u03b7\u03c3\u03c4\u03b9\u03ba\u03cc\u03c2\n\n\u03a0\u03ce\u03c2 \u03b7 \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1\n\u03a0\u03ce\u03c2 \u03b7 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b9\u03c9\u03c0\u03ae\n\u03a4\u03b9 \u03bc\u03b5 \u03ba\u03bf\u03b9\u03c4\u03ac\u03b6\u03b5\u03b9\u03c2 \u03a1\u03cc\u03b6\u03b1 \u03bc\u03bf\u03c5\u03b4\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\n\u03a3\u03c5\u03b3\u03c7\u03ce\u03c1\u03b1 \u03bc\u03b5 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03b2\u03b1\u03af\u03bd\u03c9\n\u03a4\u03b9 \u03bb\u03ad\u03bd\u03b5 \u03c4\u03b1 \u03ba\u03bf\u03bc\u03c0\u03b9\u03bf\u03cd\u03c4\u03b5\u03c1\u03c2 \u03ba\u03b9 \u03bf\u03b9 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03afEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2110324",
+   "artist_names": "Dimitris mitropanos",
+   "full_title": "Roza - live by\u00a0Dimitris\u00a0mitropanos",
+   "header_image_thumbnail_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "header_image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "id": 2110324,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Dimitris-mitropanos-roza-live-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "song_art_image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Roza - live",
+   "title_with_featured": "Roza - live",
+   "url": "https://genius.com/Dimitris-mitropanos-roza-live-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/481513",
+    "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+    "id": 481513,
+    "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Dimitris mitropanos",
+    "url": "https://genius.com/artists/Dimitris-mitropanos"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2110324/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2110324' class='rg_embed_link' data-song-id='2110324'>Read <a href='https://genius.com/Dimitris-mitropanos-roza-live-lyrics'>\u201cRoza - live\u201d by Dimitris\u00a0mitropanos</a> on Genius</div> <script crossorigin src='//genius.com/songs/2110324/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6860694",
+    "classification": "needs_exegesis",
+    "fragment": "Roza - live",
+    "id": 6860694,
+    "is_description": true,
+    "path": "/6860694/Dimitris-mitropanos-roza-live/Roza-live",
+    "range": {
+     "content": "Roza - live"
+    },
+    "song_id": 2110324,
+    "url": "https://genius.com/6860694/Dimitris-mitropanos-roza-live/Roza-live",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2110324",
+     "client_timestamps": {
+      "updated_by_human_at": 1546179256,
+      "lyrics_updated_at": 1434137378
+     },
+     "context": "Dimitris mitropanos",
+     "id": 2110324,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "link_title": "Roza - live by\u00a0Dimitris\u00a0mitropanos",
+     "title": "Roza - live",
+     "type": "Song",
+     "url": "https://genius.com/Dimitris-mitropanos-roza-live-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6860694",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6860694,
+      "pinned": false,
+      "share_url": "https://genius.com/6860694",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6860694/Dimitris-mitropanos-roza-live/Roza-live",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   ],
+   "artist": "Dimitris mitropanos",
+   "lyrics": "Roza - live LyricsTa xili mou ksera kai dipsasmena\nGireuoune stin asfalto nero\nPernane dipla mou ta nekrofora\nKai`sei mou les mas perimenei i ora\nKai me trabas se kabare ydro\nBadizoume mazi ston idio dromo\nMa ta kelia mas ine xorista\nSe politeia magiki girname\nDe thelo pia na matho ti zitame\nFtavi na mou xarisis dio filia...\nMe pezis sti rouletta kai me xaneis\nSe ena paramithi efialtiko\nFoni entomou tora ine i foni mou\nFito anarixomeno i zoi mou\nMe kobeis kai me rixneis sto keno...\n(Refrain)\nPos i anagki ginete istoria\nPos i istoria ginete siopi\nTi me kitazis roza moudiasmeno\nSighorame pou den katalabeno\nTi lene ta computers ki`arithmi\nAgapi mou apo karbouno me ftiaxni\nPos exi alazi etsi o kairos\nPernane pano mou as`ta kropofora\nKe`go mes stin omixli ke ti mpora\nKimame sto pleuro sou nistikos...Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2176104",
+   "artist_names": "Dimitris mitropanos",
+   "full_title": "\u038c\u03c4\u03b1\u03bd \u0388\u03c7\u03c9 \u0395\u03c3\u03ad\u03bd\u03b1 (Otan Exw Esena) by\u00a0Dimitris\u00a0mitropanos",
+   "header_image_thumbnail_url": "https://images.genius.com/204d3e1d47165a51ab19a8d2de2e00bc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/204d3e1d47165a51ab19a8d2de2e00bc.480x480x1.jpg",
+   "id": 2176104,
+   "lyrics_owner_id": 12742747,
+   "lyrics_state": "complete",
+   "path": "/Dimitris-mitropanos-otan-exw-esena-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": "May 31, 2011",
+   "song_art_image_thumbnail_url": "https://images.genius.com/204d3e1d47165a51ab19a8d2de2e00bc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/204d3e1d47165a51ab19a8d2de2e00bc.480x480x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u038c\u03c4\u03b1\u03bd \u0388\u03c7\u03c9 \u0395\u03c3\u03ad\u03bd\u03b1 (Otan Exw Esena)",
+   "title_with_featured": "\u038c\u03c4\u03b1\u03bd \u0388\u03c7\u03c9 \u0395\u03c3\u03ad\u03bd\u03b1 (Otan Exw Esena)",
+   "url": "https://genius.com/Dimitris-mitropanos-otan-exw-esena-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/481513",
+    "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+    "id": 481513,
+    "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Dimitris mitropanos",
+    "url": "https://genius.com/artists/Dimitris-mitropanos"
+   },
+   "apple_music_id": "1310648182",
+   "apple_music_player_url": "https://genius.com/songs/2176104/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2176104' class='rg_embed_link' data-song-id='2176104'>Read <a href='https://genius.com/Dimitris-mitropanos-otan-exw-esena-lyrics'>\u201c\u038c\u03c4\u03b1\u03bd \u0388\u03c7\u03c9 \u0395\u03c3\u03ad\u03bd\u03b1 (Otan Exw Esena)\u201d by Dimitris\u00a0mitropanos</a> on Genius</div> <script crossorigin src='//genius.com/songs/2176104/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-05-31",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/492197",
+    "cover_art_url": "https://images.genius.com/204d3e1d47165a51ab19a8d2de2e00bc.480x480x1.jpg",
+    "full_title": "\u0395\u03b4\u03ce \u0395\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 (Here we Are) by Dimitris mitropanos",
+    "id": 492197,
+    "name": "\u0395\u03b4\u03ce \u0395\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 (Here we Are)",
+    "url": "https://genius.com/albums/Dimitris-mitropanos/Here-we-are",
+    "artist": {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7316476",
+    "classification": "needs_exegesis",
+    "fragment": "\u038c\u03c4\u03b1\u03bd \u0388\u03c7\u03c9 \u0395\u03c3\u03ad\u03bd\u03b1 (Otan Exw Esena)",
+    "id": 7316476,
+    "is_description": true,
+    "path": "/7316476/Dimitris-mitropanos-otan-exw-esena/Otan-exw-esena",
+    "range": {
+     "content": "\u038c\u03c4\u03b1\u03bd \u0388\u03c7\u03c9 \u0395\u03c3\u03ad\u03bd\u03b1 (Otan Exw Esena)"
+    },
+    "song_id": 2176104,
+    "url": "https://genius.com/7316476/Dimitris-mitropanos-otan-exw-esena/Otan-exw-esena",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2176104",
+     "client_timestamps": {
+      "updated_by_human_at": 1624815537,
+      "lyrics_updated_at": 1624815537
+     },
+     "context": "Dimitris mitropanos",
+     "id": 2176104,
+     "image_url": "https://images.genius.com/204d3e1d47165a51ab19a8d2de2e00bc.480x480x1.jpg",
+     "link_title": "\u038c\u03c4\u03b1\u03bd \u0388\u03c7\u03c9 \u0395\u03c3\u03ad\u03bd\u03b1 (Otan Exw Esena) by\u00a0Dimitris\u00a0mitropanos",
+     "title": "\u038c\u03c4\u03b1\u03bd \u0388\u03c7\u03c9 \u0395\u03c3\u03ad\u03bd\u03b1 (Otan Exw Esena)",
+     "type": "Song",
+     "url": "https://genius.com/Dimitris-mitropanos-otan-exw-esena-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7316476",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7316476,
+      "pinned": false,
+      "share_url": "https://genius.com/7316476",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7316476/Dimitris-mitropanos-otan-exw-esena/Otan-exw-esena",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2301487",
+     "header_image_url": "https://images.genius.com/57e236a8a6204846db0c9e08406ca4e0.598x598x1.jpg",
+     "id": 2301487,
+     "image_url": "https://images.genius.com/57e236a8a6204846db0c9e08406ca4e0.598x598x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stamatis Kraounakis",
+     "url": "https://genius.com/artists/Stamatis-kraounakis"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   ],
+   "artist": "Dimitris mitropanos",
+   "lyrics": "\u038c\u03c4\u03b1\u03bd \u0388\u03c7\u03c9 \u0395\u03c3\u03ad\u03bd\u03b1 (Otan Exw Esena) Lyrics\u038c\u03c4\u03b1\u03bd \u03ad\u03c7\u03c9 \u03b5\u03c3\u03ad\u03bd\u03b1\n\u039c\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03bf\u03bd\u03b5\u03b9\u03c1\u03b5\u03cd\u03bf\u03bc\u03b1\u03b9 \u03be\u03b1\u03bd\u03ac\n\u0391\u03bd\u03bf\u03af\u03b3\u03c9 \u03bc\u03b5\u03c2 \u03c3\u03c4\u03b7 \u03b8\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c0\u03b1\u03bd\u03b9\u03ac\n\u039a\u03b1\u03b9 \u03c0\u03b9\u03ac\u03bd\u03c9 \u03bc\u03b5\u03c2 \u03c3\u03c4\u03b1 \u03c7\u03ad\u03c1\u03b9\u03b1 \u03bc\u03bf\u03c5\n\u03a4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf \u03bd\u03b1 \u03c4\u03bf\u03bd \u03c6\u03c4\u03b9\u03ac\u03be\u03c9\n\n\u038c\u03c4\u03b1\u03bd \u03ad\u03c7\u03c9 \u03b5\u03c3\u03ad\u03bd\u03b1\n\u039c\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03bc\u03b7 \u03b2\u03c5\u03b8\u03af\u03b6\u03bf\u03bc\u03b1\u03b9 \u03b1\u03c1\u03b3\u03ac\n\u03a4\u03b1 \u03b2\u03c1\u03ac\u03b4\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03bb\u03b7\u03b3\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03c1\u03b4\u03b9\u03ac\n\u039a\u03b1\u03b9 \u03c0\u03b9\u03ac\u03bd\u03c9 \u03c4\u03bf \u03bc\u03b1\u03c7\u03b1\u03af\u03c1\u03b9\n\u03a4\u03bf \u03c3\u03ba\u03bf\u03c4\u03ac\u03b4\u03b9 \u03bd\u03b1 \u03c7\u03b1\u03c1\u03ac\u03be\u03c9\n\n\u039a\u03ac\u03bd\u03b5 \u03ad\u03bd\u03b1 \u03b2\u03ae\u03bc\u03b1\n\u039d\u03b1 \u03ba\u03ac\u03bd\u03c9 \u03b5\u03b3\u03ce \u03c4\u03bf \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03bf\n\u0391\u03af\u03bc\u03b1 \u03bc\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c3\u03c7\u03ae\u03bc\u03b1\n\u039b\u03cc\u03b3\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c8\u03c5\u03c7\u03ae \u03c3\u03c4\u03bf \u03c3\u03c5\u03bc\u03c6\u03c1\u03b1\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\n\u038c\u03c4\u03b1\u03bd \u03ad\u03c7\u03c9 \u03b5\u03c3\u03ad\u03bd\u03b1\n\u039a\u03bf\u03b9\u03bc\u03ac\u03bc\u03b1\u03b9 \u03c3\u03b1\u03bd \u03c0\u03b1\u03b9\u03b4\u03af, \u03ad\u03c7\u03c9 \u03ad\u03bd\u03b1\u03bd \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\n\u0394\u03b5\u03bd \u03c6\u03bf\u03b2\u03bf\u03cd \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\n\u0395\u03b3\u03ce \u03ba\u03b9 \u03b5\u03c3\u03cd \u03c3\u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf\n\u03a4\u03bf\u03bd \u03b1\u03c0\u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\n\n\u0395\u03c3\u03cd \u03ba\u03b9 \u03b5\u03b3\u03ce\n\u038c\u03c4\u03b1\u03bd \u03ad\u03c7\u03c9 \u03b5\u03c3\u03ad\u03bd\u03b1\n\u039c\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03b2\u03ac\u03c8\u03c9 \u03bc\u03b5 \u03b1\u03c3\u03ae\u03bc\u03b9 \u03c4\u03b7 \u03c3\u03ba\u03bf\u03c5\u03c1\u03b9\u03ac\n\u039c\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03ba\u03bf\u03b9\u03bc\u03b7\u03b8\u03ce \u03bc\u03b5 \u03c3\u03b9\u03b3\u03bf\u03c5\u03c1\u03b9\u03ac\n\u039d\u03b1 \u03c0\u03b9\u03ac\u03c3\u03c9 \u03bc\u03b5 \u03c4\u03b1 \u03c7\u03ad\u03c1\u03b9\u03b1 \u03bc\u03bf\u03c5\n\u03a4\u03bf\u03c5\u03c2 \u03b4\u03c1\u03ac\u03ba\u03bf\u03c5\u03c2 \u03bd\u03b1 \u03c3\u03ba\u03bf\u03c4\u03ce\u03c3\u03c9\n\n\u038c\u03c4\u03b1\u03bd \u03ad\u03c7\u03c9 \u03b5\u03c3\u03ad\u03bd\u03b1\n\u0391\u03bd\u03c4\u03ad\u03c7\u03c9, \u03c0\u03ac\u03c9 \u03b4\u03af\u03c0\u03bb\u03b1 \u03c3\u03c4\u03bf\u03bd \u03b3\u03ba\u03c1\u03b5\u03bc\u03cc\n\u03a4\u03bf \u03be\u03ad\u03c1\u03c9, \u03ad\u03c7\u03c9 \u03ad\u03bd\u03b1 \u03c7\u03ad\u03c1\u03b9 \u03bd\u03b1 \u03c0\u03b9\u03b1\u03c3\u03c4\u03ce\n\u039a\u03bf\u03bd\u03c4\u03ac \u03bc\u03bf\u03c5 \u03ad\u03bd\u03b1\u03bd \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\n\u03a4\u03b1 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03bc\u03bf\u03c5 \u03bd\u03b1 \u03b5\u03bd\u03ce\u03c3\u03c9Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2230363",
+   "artist_names": "Dimitris mitropanos",
+   "full_title": "Thessaloniki - Live by\u00a0Dimitris\u00a0mitropanos",
+   "header_image_thumbnail_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "header_image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "id": 2230363,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Dimitris-mitropanos-thessaloniki-live-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "song_art_image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Thessaloniki - Live",
+   "title_with_featured": "Thessaloniki - Live",
+   "url": "https://genius.com/Dimitris-mitropanos-thessaloniki-live-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/481513",
+    "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+    "id": 481513,
+    "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Dimitris mitropanos",
+    "url": "https://genius.com/artists/Dimitris-mitropanos"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2230363/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2230363' class='rg_embed_link' data-song-id='2230363'>Read <a href='https://genius.com/Dimitris-mitropanos-thessaloniki-live-lyrics'>\u201cThessaloniki - Live\u201d by Dimitris\u00a0mitropanos</a> on Genius</div> <script crossorigin src='//genius.com/songs/2230363/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7363871",
+    "classification": "needs_exegesis",
+    "fragment": "Thessaloniki - Live",
+    "id": 7363871,
+    "is_description": true,
+    "path": "/7363871/Dimitris-mitropanos-thessaloniki-live/Thessaloniki-live",
+    "range": {
+     "content": "Thessaloniki - Live"
+    },
+    "song_id": 2230363,
+    "url": "https://genius.com/7363871/Dimitris-mitropanos-thessaloniki-live/Thessaloniki-live",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2230363",
+     "client_timestamps": {
+      "updated_by_human_at": 1447115155,
+      "lyrics_updated_at": 1437082939
+     },
+     "context": "Dimitris mitropanos",
+     "id": 2230363,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "link_title": "Thessaloniki - Live by\u00a0Dimitris\u00a0mitropanos",
+     "title": "Thessaloniki - Live",
+     "type": "Song",
+     "url": "https://genius.com/Dimitris-mitropanos-thessaloniki-live-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7363871",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7363871,
+      "pinned": false,
+      "share_url": "https://genius.com/7363871",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7363871/Dimitris-mitropanos-thessaloniki-live/Thessaloniki-live",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Dimitris mitropanos",
+   "lyrics": "Thessaloniki - Live LyricsS'anazito sti Saloniki\n\nI search for you in Saloniki (/Thessaloniki)\n\n\u03a0\u03c1\u03ce\u03c4\u03b7 \u03b5\u03ba\u03c4\u03ad\u03bb\u03b5\u03c3\u03b7: \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039c\u03b7\u03c4\u03c1\u03bf\u03c0\u03ac\u03bd\u03bf\u03c2 First performed byimitris Mitropanos\n\n\u0391\u03c6\u03bf\u03cd \u03bc\u03b5 \u03ad\u03c3\u03c0\u03b5\u03b9\u03c1\u03b5 \u03bc\u03b9\u03b1 \u03bc\u03bf\u03af\u03c1\u03b1 \u03b1\u03c5\u03c4\u03bf\u03ba\u03c1\u03b1\u03c4\u03cc\u03c1\u03b9\u03c3\u03c3\u03b1\n\nSince I was seede by a imperial destiny\n\n\u039c\u03ae\u03c4\u03c1\u03b1 \u03bc\u03b5 \u03b3\u03ad\u03bd\u03bd\u03b7\u03c3\u03b5 \u03b1\u03c1\u03c7\u03b1\u03af\u03b1 \u039c\u03b1\u03ba\u03b5\u03b4\u03cc\u03bd\u03b9\u03c3\u03c3\u03b1\n\nI was born from the womb of an ancient Macedonian woman\n\n\u039c' \u03ac\u03b4\u03b5\u03b9\u03b1 \u03c6\u03b1\u03c1\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03bb\u03b5\u03bc\u03ac\u03c9 \u03c4\u03bf \u03c7\u03b5\u03b9\u03bc\u03ce\u03bd\u03b1\nWitn an empty quiver I fight in the winter\n\n\u0391\u03c0\u03cc \u03c4\u03bf \u03ba\u03ac\u03c3\u03c4\u03c1\u03bf \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03c1\u03b4\u03b9\u03ac \u03c4\u03bf\u03c5 \u03a0\u03bb\u03b1\u03c4\u03b1\u03bc\u03ce\u03bd\u03b1\n\nFrom the castle in the heart of Platamona(it's an area in the northern part of Greece)\n\u0391\u03c6\u03bf\u03cd \u03bc\u03b5 \u03c6\u03ad\u03c1\u03bd\u03b5\u03b9 \u03bc\u03bf\u03bd\u03bf\u03c0\u03ac\u03c4\u03b9 \u03c6\u03b1\u03bd\u03b1\u03c1\u03b9\u03ce\u03c4\u03b9\u03ba\u03bf\n\nSince I am brought by a footpath from Fanari(where the Patriarchate is in Istanbul)\n\n\u0388\u03bd\u03b1 \u03c3\u03bf\u03ba\u03ac\u03ba\u03b9 \u03bc\u03b5 \u03ba\u03c1\u03b1\u03c4\u03ac\u03b5\u03b9 \u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03b9\u03ce\u03c4\u03b9\u03ba\u03bf\n\nA street from Saloniki holds me\n\n\u0388\u03bb\u03b1 \u03ad\u03bd\u03b1 \u03b2\u03c1\u03ac\u03b4\u03c5 \u03c4\u03b7\u03bd \u03c5\u03c0\u03cc\u03c3\u03c7\u03b5\u03c3\u03b7 \u03bd\u03b1 \u03c0\u03ac\u03c1\u03b5\u03b9\u03c2\n\nCome one night to take the promise\n\n\u03a0\u03c1\u03b9\u03bd \u03bd\u03b1 \u03c4\u03b7 \u03c3\u03b2\u03ae\u03c3\u03b5\u03b9 \u03bc\u03b5 \u03c3\u03c6\u03bf\u03c5\u03b3\u03b3\u03ac\u03c1\u03b9 \u03bf \u0392\u03b1\u03c1\u03b4\u03ac\u03c1\u03b7\u03c2\n\nBefore she is wipped out from Vardaris(a river and the name of a wind )\n\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce\n\nI search for you\n\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03be\u03b7\u03bc\u03b5\u03c1\u03ce\u03bc\u03b1\u03c4\u03b1\nI search for you in Saloniki at dawn\n\n\u039b\u03b5\u03af\u03c0\u03b5\u03b9 \u03c4\u03bf \u03b2\u03bb\u03ad\u03bc\u03bc\u03b1 \u03c3\u03bf\u03c5 \u03b1\u03c0' \u03c4\u03b7\u03c2 \u03b1\u03c5\u03b3\u03ae\u03c2 \u03c4\u03b1 \u03c7\u03c1\u03ce\u03bc\u03b1\u03c4\u03b1\n\nYour look is missing from the colors of the dawn\n\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce\n\nI search for you\n\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03bc' \u03ad\u03bd\u03b1 \u03b2\u03b9\u03bf\u03bb\u03af \u03ba\u03b9 \u03ad\u03bd\u03b1 \u03c6\u03b5\u03b3\u03b3\u03ac\u03c1\u03b9\n\nI search for you with a violin and a bow\n\n\u039b\u03b5\u03af\u03c0\u03b5\u03b9 \u03c4\u03bf \u03cc\u03bd\u03b5\u03b9\u03c1\u03bf \u03b5\u03c3\u03cd \u03ba\u03b1\u03b9 \u03c4\u03bf \u03b4\u03bf\u03be\u03ac\u03c1\u03b9\n\nThe dream you and the bow are missing\n\n\u0391\u03c6\u03bf\u03cd \u03bc\u03b5\u03b8\u03ac\u03c9 \u03bc' \u03ad\u03bd\u03b1 \u03ba\u03c1\u03b1\u03c3\u03af \u03b1\u03b3\u03b9\u03bf\u03bd\u03bf\u03c1\u03b5\u03af\u03c4\u03b9\u03ba\u03bf\n\nSince I get drunk with a wine from Agion Oros(a place where many monasteries are, only men are permitted there)\n\n\u039a\u03b1\u03b9 \u03bc' \u03ad\u03bd\u03b1 \u03bd\u03c4\u03ad\u03c1\u03c4\u03b9 \u03c3\u03b5\u03ba\u03bb\u03b5\u03c4\u03af\u03b6\u03bf\u03bc\u03b1\u03b9 \u03c0\u03bf\u03bb\u03af\u03c4\u03b9\u03ba\u03bf\n\nAnd with a painful thought like the ones from Istanbul(/Konstantinoupoli/Poli) I get extremely blue(the translation is not exact,these words do not exist in any language apart Greek and Turkish)\n\u0392\u03c1\u03b5\u03c2 \u03c4\u03bf \u03bc\u03b1\u03c7\u03b1\u03af\u03c1\u03b9 \u03c0\u03bf\u03c5 \u03c3\u03c4\u03b1 \u03b4\u03cd\u03bf \u03bc\u03b1\u03c2 \u03c7\u03c9\u03c1\u03af\u03b6\u03b5\u03b9\nFind the knife that splits us in two\n\n\u039a\u03b9 \u03ad\u03bb\u03b1 \u03b5\u03b4\u03ce \u03c3\u03c4\u03c9\u03bd \u03c3\u03c4\u03b5\u03bd\u03b1\u03b3\u03bc\u03ce\u03bd \u03c4\u03bf \u03bc\u03b5\u03c4\u03b5\u03c1\u03af\u03b6\u03b9\n\nAnd come here to the parapet of sighs\n\n\u0391\u03c6\u03bf\u03cd \u03c3\u03c4\u03bf\u03bd \u038c\u03bb\u03c5\u03bc\u03c0\u03bf \u03bf\u03b9 \u0398\u03b5\u03bf\u03af \u03c4' \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03c3\u03b1\u03bd\u03b5\n\nSince the Gods in Olympus have decided\n\n\u0394\u03ce\u03c3\u03b1\u03bd \u03c3\u03c4\u03bf \u03ba\u03c1\u03cd\u03bf \u03c4\u03b1 \u03ba\u03bb\u03b5\u03b9\u03b4\u03b9\u03ac \u03ba\u03b9 \u03b1\u03c5\u03c4\u03bf\u03ba\u03c4\u03bf\u03bd\u03ae\u03c3\u03b1\u03bd\u03b5\n\nThey give the keys to the cold and they committed suicide\n\n\u039c\u03cc\u03bd\u03b7 \u03be\u03c5\u03c0\u03bd\u03ac \u03bc\u03cc\u03bd\u03b7 \u03ba\u03bf\u03b9\u03bc\u03ac\u03c4\u03b1\u03b9 \u03c4\u03ce\u03c1\u03b1 \u03b7 \u03bc\u03ad\u03c1\u03b1\n\nAlone she awakes alone she sleeps now the day (day in Greek is female)\n\n\u039c\u03b5 \u03bc\u03b7\u03c7\u03b1\u03bd\u03ac\u03ba\u03b9 \u03bc\u03b5 \u03ba\u03bf\u03bc\u03c0\u03b9\u03bf\u03cd\u03c4\u03b5\u03c1 \u03ba\u03b1\u03b9 \u03c6\u03bb\u03bf\u03b3\u03ad\u03c1\u03b1\n\nWith a motor bike a pc and a flute\n\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce\n\nI search for you\n\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03be\u03b7\u03bc\u03b5\u03c1\u03ce\u03bc\u03b1\u03c4\u03b1\n\nI search for you in Saloniki at dawn\n\n\u039b\u03b5\u03af\u03c0\u03b5\u03b9 \u03c4\u03bf \u03b2\u03bb\u03ad\u03bc\u03bc\u03b1 \u03c3\u03bf\u03c5 \u03b1\u03c0' \u03c4\u03b7\u03c2 \u03b1\u03c5\u03b3\u03ae\u03c2 \u03c4\u03b1 \u03c7\u03c1\u03ce\u03bc\u03b1\u03c4\u03b1\n\nYour look is missing from the colors of the dawn\n\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce\n\nI search for you\n\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03bc' \u03ad\u03bd\u03b1 \u03b2\u03b9\u03bf\u03bb\u03af \u03ba\u03b9 \u03ad\u03bd\u03b1 \u03c6\u03b5\u03b3\u03b3\u03ac\u03c1\u03b9\n\nI search for you with a violin and a bow\n\n\u039b\u03b5\u03af\u03c0\u03b5\u03b9 \u03c4\u03bf \u03cc\u03bd\u03b5\u03b9\u03c1\u03bf \u03b5\u03c3\u03cd \u03ba\u03b1\u03b9 \u03c4\u03bf \u03b4\u03bf\u03be\u03ac\u03c1\u03b9\n\nThe dream you and the bow are missingEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2202659",
+   "artist_names": "Dimitris mitropanos",
+   "full_title": "\u03a4\u03b1 \u039b\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1 (Ladadika) by\u00a0Dimitris\u00a0mitropanos",
+   "header_image_thumbnail_url": "https://images.genius.com/0da45447f688ab1b8f2c4c3431ecbb82.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0da45447f688ab1b8f2c4c3431ecbb82.960x960x1.jpg",
+   "id": 2202659,
+   "lyrics_owner_id": 4972646,
+   "lyrics_state": "complete",
+   "path": "/Dimitris-mitropanos-ladadika-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": "November 4, 1994",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0da45447f688ab1b8f2c4c3431ecbb82.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0da45447f688ab1b8f2c4c3431ecbb82.960x960x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u03a4\u03b1 \u039b\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1 (Ladadika)",
+   "title_with_featured": "\u03a4\u03b1 \u039b\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1 (Ladadika)",
+   "url": "https://genius.com/Dimitris-mitropanos-ladadika-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/481513",
+    "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+    "id": 481513,
+    "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Dimitris mitropanos",
+    "url": "https://genius.com/artists/Dimitris-mitropanos"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2202659/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2202659' class='rg_embed_link' data-song-id='2202659'>Read <a href='https://genius.com/Dimitris-mitropanos-ladadika-lyrics'>\u201c\u03a4\u03b1 \u039b\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1 (Ladadika)\u201d by Dimitris\u00a0mitropanos</a> on Genius</div> <script crossorigin src='//genius.com/songs/2202659/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1994-11-04",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/492200",
+    "cover_art_url": "https://images.genius.com/0da45447f688ab1b8f2c4c3431ecbb82.960x960x1.jpg",
+    "full_title": "\u03a0\u03b1\u03c1\u03ad\u03b1 \u03bc\u03b5 \u03ad\u03bd\u03b1\u03bd \u0389\u03bb\u03b9\u03bf (Parea) by Dimitris mitropanos",
+    "id": 492200,
+    "name": "\u03a0\u03b1\u03c1\u03ad\u03b1 \u03bc\u03b5 \u03ad\u03bd\u03b1\u03bd \u0389\u03bb\u03b9\u03bf (Parea)",
+    "url": "https://genius.com/albums/Dimitris-mitropanos/Parea",
+    "artist": {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7307538",
+    "classification": "needs_exegesis",
+    "fragment": "\u03a4\u03b1 \u039b\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1 (Ladadika)",
+    "id": 7307538,
+    "is_description": true,
+    "path": "/7307538/Dimitris-mitropanos-ladadika/Ladadika",
+    "range": {
+     "content": "\u03a4\u03b1 \u039b\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1 (Ladadika)"
+    },
+    "song_id": 2202659,
+    "url": "https://genius.com/7307538/Dimitris-mitropanos-ladadika/Ladadika",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2202659",
+     "client_timestamps": {
+      "updated_by_human_at": 1565566644,
+      "lyrics_updated_at": 1546179347
+     },
+     "context": "Dimitris mitropanos",
+     "id": 2202659,
+     "image_url": "https://images.genius.com/0da45447f688ab1b8f2c4c3431ecbb82.960x960x1.jpg",
+     "link_title": "\u03a4\u03b1 \u039b\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1 (Ladadika) by\u00a0Dimitris\u00a0mitropanos",
+     "title": "\u03a4\u03b1 \u039b\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1 (Ladadika)",
+     "type": "Song",
+     "url": "https://genius.com/Dimitris-mitropanos-ladadika-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7307538",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7307538,
+      "pinned": false,
+      "share_url": "https://genius.com/7307538",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7307538/Dimitris-mitropanos-ladadika/Ladadika",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=9zNrDdVbVJY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    },
+    {
+     "api_path": "/artists/1682295",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "id": 1682295,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marios Tokas",
+     "url": "https://genius.com/artists/Marios-tokas"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1682302",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "id": 1682302,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03c2 \u0393\u03c1\u03ac\u03c8\u03b1\u03c2 (Phillip Grapsas)",
+     "url": "https://genius.com/artists/Phillip-grapsas"
+    }
+   ],
+   "artist": "Dimitris mitropanos",
+   "lyrics": "\u03a4\u03b1 \u039b\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1 (Ladadika) Lyrics\u03a3\u03b5 \u03c3\u03c5\u03b6\u03b7\u03c4\u03ac\u03bd \u03b4\u03af\u03c7\u03c9\u03c2 \u03b3\u03b9\u03b1\u03c4\u03af \u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03ac\u03b4\u03b9\u03ba\u03b1\n\u038c\u03c0\u03c9\u03c2 \u03ba\u03bf\u03b9\u03bc\u03ac\u03c3\u03b1\u03b9 \u03c3\u03c4\u03b1 \u03c3\u03c4\u03b5\u03bd\u03ac \u03c0\u03b1\u03bb\u03b9\u03ac \u03bb\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1\n\u0388\u03b3\u03b9\u03bd\u03b5\u03c2 \u03c6\u03ae\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03b3\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b4\u03b5 \u03c6\u03c5\u03bb\u03b1\u03ba\u03af\u03b6\u03b5\u03c3\u03b1\u03b9\n\u0396\u03b5\u03b9\u03c2 \u03c3\u03c4\u03bf \u03c3\u03ba\u03bf\u03c4\u03ac\u03b4\u03b9 \u03c0\u03b1\u03c3\u03c4\u03c1\u03b9\u03ba\u03ac \u03bc\u03b1 \u03b4\u03b5\u03bd \u03bf\u03c1\u03ba\u03af\u03b6\u03b5\u03c3\u03b1\u03b9\n\n\u039b\u03ac\u03bc\u03c0\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b1 \u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03b1 \u03c3\u03b1\u03c4\u03ad\u03bd \u03c0\u03bf\u03c5 \u03c3\u03b5 \u03c4\u03c5\u03bb\u03af\u03b3\u03bf\u03c5\u03bd\u03b5\n\u0386\u03c3\u03c0\u03c1\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03ad\u03c1\u03c4\u03b9\u03ba\u03bf\u03b9 \u03ba\u03b1\u03c0\u03bd\u03bf\u03af \u03c3\u03b5 \u03ba\u03b1\u03c4\u03b1\u03c0\u03af\u03bd\u03bf\u03c5\u03bd\u03b5\n\u03a3\u03b5 \u03ba\u03b1\u03bb\u03bd\u03c4\u03b5\u03c1\u03af\u03bc\u03b9\u03b1 \u03be\u03b5\u03bd\u03c5\u03c7\u03c4\u03ac\u03c2 \u03c5\u03b3\u03c1\u03ac, \u03bb\u03b9\u03b8\u03cc\u03c3\u03c4\u03c1\u03c9\u03c4\u03b1\n\u03a3\u03c4\u03bf\u03c5 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03b4\u03b5\u03af\u03c3\u03bf\u03c5 \u03c4\u03b7\u03bd \u03b1\u03c5\u03bb\u03cc\u03c0\u03bf\u03c1\u03c4\u03b1\n\n\u03a4\u03cc\u03c3\u03b1 \u03b4\u03af\u03bd\u03c9, \u03c0\u03cc\u03c3\u03b1 \u03b8\u03b5\u03c2\n\u03a3\u03c4\u03b1 \u03bb\u03b1\u03b4\u03ac\u03b4\u03b9\u03ba\u03b1 \u03c0\u03bf\u03c5\u03bb\u03ac\u03bd \u03b1\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03b8\u03b5-\u03c2\n\u039a\u03ac\u03b8\u03b5 \u03ba\u03ac\u03bc\u03b1\u03c1\u03b1 \u03ba\u03b5\u03bb\u03af\n\u039c\u03b5 \u03b2\u03b1\u03c1\u03b9\u03ac, \u03c0\u03b1\u03bb\u03b9\u03ba\u03b1\u03c1\u03af\u03c3\u03b9\u03b1 \u03b1\u03bd\u03b1\u03c0\u03bd\u03bf\u03ae\n\n\u039c\u03cd\u03c1\u03b9\u03b5\u03c2 \u03c7\u03b1\u03bc\u03ad\u03bd\u03b5\u03c2 \u03bc\u03bf\u03bd\u03b1\u03be\u03b9\u03ad\u03c2 \u03bc\u03b5 \u03c3\u03ad\u03bd\u03b1 \u03c3\u03bc\u03af\u03b3\u03b1\u03bd\u03b5\n\u03a6\u03b5\u03cd\u03b3\u03b1\u03bd \u03ba\u03b1\u03c1\u03ac\u03b2\u03b9\u03b1 \u03bc\u03b1 \u03c0\u03c1\u03b9\u03bd \u03c6\u03cd\u03b3\u03bf\u03c5\u03bd \u03c3\u03bf\u03c5 \u03c3\u03c6\u03c5\u03c1\u03af\u03b6\u03b1\u03bd\u03b5\n\u03a0\u03cc\u03c3\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03ae\u03c1\u03b8\u03b1\u03bd \u03bd\u03b1 \u03b2\u03c1\u03bf\u03c5\u03bd \u03c4\u03bf \u03b1\u03bd\u03c4\u03c1\u03b9\u03bb\u03af\u03ba\u03b9 \u03c4\u03bf\u03c5\u03c2\n\u039a\u03b1\u03b9 \u03c3\u03bf\u03c5 \u03b1\u03ba\u03bf\u03c5\u03bc\u03c0\u03ae\u03c3\u03b1\u03bd\u03b5 \u03b4\u03b5\u03b9\u03bb\u03ac \u03c4\u03bf \u03c7\u03b1\u03c1\u03c4\u03b6\u03b9\u03bb\u03af\u03ba\u03b9 \u03c4\u03bf\u03c5\u03c2\n\u03a4\u03cc\u03c3\u03b1 \u03b4\u03af\u03bd\u03c9, \u03c0\u03cc\u03c3\u03b1 \u03b8\u03b5\u03c2...\n\u03a4\u03cc\u03c3\u03b1 \u03c0\u03b1\u03af\u03c1\u03bd\u03c9 \u03ba\u03b9 \u03cc,\u03c4\u03b9 \u03b8\u03b5\u03c2\n\u03a3\u03c4\u03b7\u03bd \u03c4\u03b9\u03bc\u03ae \u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bf \u03ba\u03b1\u03c6\u03ad\u03c2Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2224092",
+   "artist_names": "Dimitris mitropanos",
+   "full_title": "Mia Stasi Edo by\u00a0Dimitris\u00a0mitropanos",
+   "header_image_thumbnail_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+   "header_image_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+   "id": 2224092,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Dimitris-mitropanos-mia-stasi-edo-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": "April 6, 1992",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mia Stasi Edo",
+   "title_with_featured": "Mia Stasi Edo",
+   "url": "https://genius.com/Dimitris-mitropanos-mia-stasi-edo-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/481513",
+    "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+    "id": 481513,
+    "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Dimitris mitropanos",
+    "url": "https://genius.com/artists/Dimitris-mitropanos"
+   },
+   "apple_music_id": "1358317067",
+   "apple_music_player_url": "https://genius.com/songs/2224092/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2224092' class='rg_embed_link' data-song-id='2224092'>Read <a href='https://genius.com/Dimitris-mitropanos-mia-stasi-edo-lyrics'>\u201cMia Stasi Edo\u201d by Dimitris\u00a0mitropanos</a> on Genius</div> <script crossorigin src='//genius.com/songs/2224092/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1992-04-06",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/492198",
+    "cover_art_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+    "full_title": "\u0397 \u0395\u03b8\u03bd\u03b9\u03ba\u03ae \u03bc\u03b1\u03c2 \u039c\u03bf\u03bd\u03b1\u03be\u03b9\u03ac (Ethniki Monaxia) by Dimitris mitropanos",
+    "id": 492198,
+    "name": "\u0397 \u0395\u03b8\u03bd\u03b9\u03ba\u03ae \u03bc\u03b1\u03c2 \u039c\u03bf\u03bd\u03b1\u03be\u03b9\u03ac (Ethniki Monaxia)",
+    "url": "https://genius.com/albums/Dimitris-mitropanos/Ethniki-monaxia",
+    "artist": {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7356289",
+    "classification": "needs_exegesis",
+    "fragment": "Mia Stasi Edo",
+    "id": 7356289,
+    "is_description": true,
+    "path": "/7356289/Dimitris-mitropanos-mia-stasi-edo/Mia-stasi-edo",
+    "range": {
+     "content": "Mia Stasi Edo"
+    },
+    "song_id": 2224092,
+    "url": "https://genius.com/7356289/Dimitris-mitropanos-mia-stasi-edo/Mia-stasi-edo",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2224092",
+     "client_timestamps": {
+      "updated_by_human_at": 1546179018,
+      "lyrics_updated_at": 1437079076
+     },
+     "context": "Dimitris mitropanos",
+     "id": 2224092,
+     "image_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+     "link_title": "Mia Stasi Edo by\u00a0Dimitris\u00a0mitropanos",
+     "title": "Mia Stasi Edo",
+     "type": "Song",
+     "url": "https://genius.com/Dimitris-mitropanos-mia-stasi-edo-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7356289",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7356289,
+      "pinned": false,
+      "share_url": "https://genius.com/7356289",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7356289/Dimitris-mitropanos-mia-stasi-edo/Mia-stasi-edo",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1682295",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "id": 1682295,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marios Tokas",
+     "url": "https://genius.com/artists/Marios-tokas"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1682295",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "id": 1682295,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marios Tokas",
+     "url": "https://genius.com/artists/Marios-tokas"
+    },
+    {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   ],
+   "artist": "Dimitris mitropanos",
+   "lyrics": "Mia Stasi Edo Lyrics\u039c\u03b9\u03b1 \u03c3\u03c4\u03ac\u03c3\u03b7 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03b2\u03b3\u03c9 \u03c3\u03c4\u03bf \u03b4\u03c1\u03cc\u03bc\u03bf \u03bd\u03b1 \u03c7\u03bf\u03c1\u03ad\u03c8\u03c9 \u03ad\u03bd\u03b1 \u03b6\u03b5\u03ca\u03bc\u03c0\u03ad\u03ba\u03b9\u03ba\u03bf\n\u03a0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03b7\u03bd \u03ac\u03c3\u03c6\u03b1\u03bb\u03c4\u03bf \u03ba\u03b1\u03b9 \u03c3\u03c5 \u03bc\u03b5 \u03cd\u03c6\u03bf\u03c2 \u03c8\u03b5\u03cd\u03c4\u03b9\u03ba\u03bf\n\u039d\u03b1 \u03bc\u03b5 \u03ba\u03bf\u03b9\u03c4\u03ac\u03b6\u03b5\u03b9\u03c2 \u03c4\u03ac\u03c7\u03b1 \u03c0\u03c9\u03c2 \u03bc\u03b5 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03ac\u03b6\u03b5\u03b9\u03c2\n\n\u0398\u03b1 \u03ba\u03ac\u03bd\u03c9 \u03c3\u03c4\u03ac\u03c3\u03b7 \u03c3\u03c4\u03b7 \u03b4\u03b9\u03c0\u03bb\u03ae \u03b3\u03c1\u03b1\u03bc\u03bc\u03ae \u03c4\u03bf\u03c5 \u03b4\u03c1\u03cc\u03bc\u03bf\u03c5\n\u03a0\u03cc\u03c3\u03bf \u03ba\u03bf\u03c3\u03c4\u03af\u03b6\u03b5\u03b9 \u03bc\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b2\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5\n\u039d\u03b1 \u03c3\u03c4\u03b1\u03bc\u03b1\u03c4\u03ae\u03c3\u03c9 \u03b8\u03ad\u03bb\u03c9 \u03c4\u03b7\u03bd \u03ba\u03c5\u03ba\u03bb\u03bf\u03c6\u03bf\u03c1\u03af\u03b1\n\u0393\u03b9\u03b1 \u03bd\u03b1 \u03c6\u03c9\u03bd\u03ac\u03be\u03c9 \u03cc\u03c4\u03b9 \u03c0\u03c1\u03cc\u03b4\u03c9\u03c3\u03b5\u03c2 \u03c4\u03b7\u03bd \u03c0\u03b9\u03bf \u03cc\u03bc\u03bf\u03c1\u03c6\u03b7 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1\n\n\u039c\u03b9\u03b1 \u03c3\u03c4\u03ac\u03c3\u03b7 \u03b5\u03b4\u03ce \u03b8\u03ad\u03bb\u03c9 \u03b1\u03c0\u03cc\u03c8\u03b5 \u03bd\u03b1 \u03bc\u03b5 \u03b4\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03b4\u03c5\u03bf \u03be\u03b5\u03c3\u03c0\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1\n\u039d\u03b1 \u03be\u03b5\u03c7\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd\u03b5 \u03c4\u03b7\u03c2 \u03b6\u03c9\u03ae\u03c2 \u03bc\u03b1\u03c2 \u03c4\u03b1 \u03c7\u03b1\u03bb\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1\n\u039d\u03b1 \u03bc'\u03b1\u03bd\u03c4\u03b9\u03ba\u03c1\u03cd\u03b6\u03b5\u03b9\u03c2 \u03c4\u03ac\u03c7\u03b1 \u03c0\u03c9\u03c2 \u03bc\u03b5 \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03b5\u03b9\u03c2Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2195313",
+   "artist_names": "Dimitris mitropanos",
+   "full_title": "\u03a3' \u0391\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03ae (Se anazito) by\u00a0Dimitris\u00a0mitropanos",
+   "header_image_thumbnail_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+   "header_image_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+   "id": 2195313,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Dimitris-mitropanos-se-anazito-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": "April 6, 1992",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u03a3\u2019 \u0391\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03ae (Se anazito)",
+   "title_with_featured": "\u03a3' \u0391\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03ae (Se anazito)",
+   "url": "https://genius.com/Dimitris-mitropanos-se-anazito-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/481513",
+    "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+    "id": 481513,
+    "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Dimitris mitropanos",
+    "url": "https://genius.com/artists/Dimitris-mitropanos"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2195313/apple_music_player",
+   "description": {
+    "plain": ""
+   },
+   "embed_content": "<div id='rg_embed_link_2195313' class='rg_embed_link' data-song-id='2195313'>Read <a href='https://genius.com/Dimitris-mitropanos-se-anazito-lyrics'>\u201c\u03a3' \u0391\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03ae (Se anazito)\u201d by Dimitris\u00a0mitropanos</a> on Genius</div> <script crossorigin src='//genius.com/songs/2195313/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1992-04-06",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/492198",
+    "cover_art_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+    "full_title": "\u0397 \u0395\u03b8\u03bd\u03b9\u03ba\u03ae \u03bc\u03b1\u03c2 \u039c\u03bf\u03bd\u03b1\u03be\u03b9\u03ac (Ethniki Monaxia) by Dimitris mitropanos",
+    "id": 492198,
+    "name": "\u0397 \u0395\u03b8\u03bd\u03b9\u03ba\u03ae \u03bc\u03b1\u03c2 \u039c\u03bf\u03bd\u03b1\u03be\u03b9\u03ac (Ethniki Monaxia)",
+    "url": "https://genius.com/albums/Dimitris-mitropanos/Ethniki-monaxia",
+    "artist": {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 14109258,
+    "annotator_login": "IroMusic",
+    "api_path": "/referents/7299108",
+    "classification": "unreviewed",
+    "fragment": "\u03a3\u2019 \u0391\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03ae (Se anazito)",
+    "id": 7299108,
+    "is_description": true,
+    "path": "/7299108/Dimitris-mitropanos-se-anazito/Se-anazito",
+    "range": {
+     "content": "\u03a3' \u0391\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03ae (Se anazito)"
+    },
+    "song_id": 2195313,
+    "url": "https://genius.com/7299108/Dimitris-mitropanos-se-anazito/Se-anazito",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2195313",
+     "client_timestamps": {
+      "updated_by_human_at": 1565566889,
+      "lyrics_updated_at": 1436819269
+     },
+     "context": "Dimitris mitropanos",
+     "id": 2195313,
+     "image_url": "https://images.genius.com/f884fa5552581f3829aec57ee927e522.297x297x1.jpg",
+     "link_title": "\u03a3\u2019 \u0391\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03ae (Se anazito) by\u00a0Dimitris\u00a0mitropanos",
+     "title": "\u03a3' \u0391\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03ae (Se anazito)",
+     "type": "Song",
+     "url": "https://genius.com/Dimitris-mitropanos-se-anazito-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7299108",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7299108,
+      "pinned": false,
+      "share_url": "https://genius.com/7299108",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/7299108/Dimitris-mitropanos-se-anazito/Se-anazito",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/14109258",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/58e18834ef4296ca136628853dec077b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/58e18834ef4296ca136628853dec077b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/58e18834ef4296ca136628853dec077b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/58e18834ef4296ca136628853dec077b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/58e18834ef4296ca136628853dec077b",
+         "human_readable_role_for_display": "Contributor",
+         "id": 14109258,
+         "iq": 443,
+         "login": "IroMusic",
+         "name": "IroMusic",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/IroMusic",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=OpoLvi_GQYA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   ],
+   "artist": "Dimitris mitropanos",
+   "lyrics": "\u03a3\u2019 \u0391\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03ae (Se anazito) Lyrics\u0391\u03c6\u03bf\u03cd \u03bc\u03b5 \u03ad\u03c3\u03c0\u03b5\u03b9\u03c1\u03b5 \u03bc\u03b9\u03b1 \u03bc\u03bf\u03af\u03c1\u03b1 \u03b1\u03c5\u03c4\u03bf\u03ba\u03c1\u03b1\u03c4\u03cc\u03c1\u03b9\u03c3\u03c3\u03b1\n\u039c\u03ae\u03c4\u03c1\u03b1 \u03bc\u03b5 \u03b3\u03ad\u03bd\u03bd\u03b7\u03c3\u03b5 \u03b1\u03c1\u03c7\u03b1\u03af\u03b1 \u039c\u03b1\u03ba\u03b5\u03b4\u03cc\u03bd\u03b9\u03c3\u03c3\u03b1\n\u039c' \u03ac\u03b4\u03b5\u03b9\u03b1 \u03c6\u03b1\u03c1\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03bb\u03b5\u03bc\u03ac\u03c9 \u03c4\u03bf \u03c7\u03b5\u03b9\u03bc\u03ce\u03bd\u03b1\n\u0391\u03c0\u03cc \u03c4\u03bf \u03ba\u03ac\u03c3\u03c4\u03c1\u03bf \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03c1\u03b4\u03b9\u03ac\n\u03a4\u03bf\u03c5 \u03a0\u03bb\u03b1\u03c4\u03b1\u03bc\u03ce\u03bd\u03b1\n\n\u0391\u03c6\u03bf\u03cd \u03bc\u03b5 \u03c6\u03ad\u03c1\u03bd\u03b5\u03b9 \u03bc\u03bf\u03bd\u03bf\u03c0\u03ac\u03c4\u03b9 \u03c6\u03b1\u03bd\u03b1\u03c1\u03b9\u03ce\u03c4\u03b9\u03ba\u03bf\n\u0388\u03bd\u03b1 \u03c3\u03bf\u03ba\u03ac\u03ba\u03b9 \u03bc\u03b5 \u03ba\u03c1\u03b1\u03c4\u03ac\u03b5\u03b9 \u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03b9\u03ce\u03c4\u03b9\u03ba\u03bf\n\u0388\u03bb\u03b1 \u03ad\u03bd\u03b1 \u03b2\u03c1\u03ac\u03b4\u03c5 \u03c4\u03b7\u03bd \u03c5\u03c0\u03cc\u03c3\u03c7\u03b5\u03c3\u03b7 \u03bd\u03b1 \u03c0\u03ac\u03c1\u03b5\u03b9\u03c2\n\u03a0\u03c1\u03b9\u03bd \u03bd\u03b1 \u03c4\u03b7 \u03c3\u03b2\u03ae\u03c3\u03b5\u03b9 \u03bc\u03b5 \u03c3\u03c6\u03bf\u03c5\u03b3\u03b3\u03ac\u03c1\u03b9\n\u039f \u0392\u03b1\u03c1\u03b4\u03ac\u03c1\u03b7\u03c2\n\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03be\u03b7\u03bc\u03b5\u03c1\u03ce\u03bc\u03b1\u03c4\u03b1\n\u039b\u03b5\u03af\u03c0\u03b5\u03b9 \u03c4\u03bf \u03b2\u03bb\u03ad\u03bc\u03bc\u03b1 \u03c3\u03bf\u03c5\n\u0391\u03c0' \u03c4\u03b7\u03c2 \u03b1\u03c5\u03b3\u03ae\u03c2 \u03c4\u03b1 \u03c7\u03c1\u03ce\u03bc\u03b1\u03c4\u03b1\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03bc' \u03ad\u03bd\u03b1 \u03b2\u03b9\u03bf\u03bb\u03af \u03ba\u03b9 \u03ad\u03bd\u03b1 \u03c6\u03b5\u03b3\u03b3\u03ac\u03c1\u03b9\n\u039b\u03b5\u03af\u03c0\u03b5\u03b9 \u03c4\u03bf \u03cc\u03bd\u03b5\u03b9\u03c1\u03bf\n\u0395\u03c3\u03cd \u03ba\u03b1\u03b9 \u03c4\u03bf \u03b4\u03bf\u03be\u03ac\u03c1\u03b9\n\u0391\u03c6\u03bf\u03cd \u03bc\u03b5\u03b8\u03ac\u03c9 \u03bc' \u03ad\u03bd\u03b1 \u03ba\u03c1\u03b1\u03c3\u03af \u03b1\u03b3\u03b9\u03bf\u03bd\u03bf\u03c1\u03b5\u03af\u03c4\u03b9\u03ba\u03bf\n\u039a\u03b1\u03b9 \u03bc' \u03ad\u03bd\u03b1 \u03bd\u03c4\u03ad\u03c1\u03c4\u03b9 \u03c3\u03b5\u03ba\u03bb\u03b5\u03c4\u03af\u03b6\u03bf\u03bc\u03b1\u03b9 \u03c0\u03bf\u03bb\u03af\u03c4\u03b9\u03ba\u03bf\n\u0392\u03c1\u03b5\u03c2 \u03c4\u03bf \u03bc\u03b1\u03c7\u03b1\u03af\u03c1\u03b9 \u03c0\u03bf\u03c5 \u03c3\u03c4\u03b1 \u03b4\u03cd\u03bf \u03bc\u03b1\u03c2 \u03c7\u03c9\u03c1\u03af\u03b6\u03b5\u03b9\n\u039a\u03b9 \u03ad\u03bb\u03b1 \u03b5\u03b4\u03ce \u03c3\u03c4\u03c9\u03bd \u03c3\u03c4\u03b5\u03bd\u03b1\u03b3\u03bc\u03ce\u03bd\n\u03a4\u03bf \u03bc\u03b5\u03c4\u03b5\u03c1\u03af\u03b6\u03b9\n\n\u0391\u03c6\u03bf\u03cd \u03c3\u03c4\u03bf\u03bd \u038c\u03bb\u03c5\u03bc\u03c0\u03bf \u03bf\u03b9 \u0398\u03b5\u03bf\u03af \u03c4' \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03c3\u03b1\u03bd\u03b5\n\u0394\u03ce\u03c3\u03b1\u03bd \u03c3\u03c4\u03bf \u03ba\u03c1\u03cd\u03bf \u03c4\u03b1 \u03ba\u03bb\u03b5\u03b9\u03b4\u03b9\u03ac\n\u039a\u03b9 \u03b1\u03c5\u03c4\u03bf\u03ba\u03c4\u03bf\u03bd\u03ae\u03c3\u03b1\u03bd\u03b5\n\u039c\u03cc\u03bd\u03b7 \u03be\u03c5\u03c0\u03bd\u03ac \u03bc\u03cc\u03bd\u03b7 \u03ba\u03bf\u03b9\u03bc\u03ac\u03c4\u03b1\u03b9 \u03c4\u03ce\u03c1\u03b1 \u03b7 \u03bc\u03ad\u03c1\u03b1\n\u039c\u03b5 \u03bc\u03b7\u03c7\u03b1\u03bd\u03ac\u03ba\u03b9 \u03bc\u03b5 \u03ba\u03bf\u03bc\u03c0\u03b9\u03bf\u03cd\u03c4\u03b5\u03c1\n\u039a\u03b1\u03b9 \u03c6\u03bb\u03bf\u03b3\u03ad\u03c1\u03b1\n\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03c3\u03c4\u03b7 \u03a3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\n\u039e\u03b7\u03bc\u03b5\u03c1\u03ce\u03bc\u03b1\u03c4\u03b1\n\u039b\u03b5\u03af\u03c0\u03b5\u03b9 \u03c4\u03bf \u03b2\u03bb\u03ad\u03bc\u03bc\u03b1 \u03c3\u03bf\u03c5\n\u0391\u03c0' \u03c4\u03b7\u03c2 \u03b1\u03c5\u03b3\u03ae\u03c2 \u03c4\u03b1 \u03c7\u03c1\u03ce\u03bc\u03b1\u03c4\u03b1\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce\n\u03a3' \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce \u03bc' \u03ad\u03bd\u03b1 \u03b2\u03b9\u03bf\u03bb\u03af \u03ba\u03b9 \u03ad\u03bd\u03b1 \u03c6\u03b5\u03b3\u03b3\u03ac\u03c1\u03b9\n\u039b\u03b5\u03af\u03c0\u03b5\u03b9 \u03c4\u03bf \u03cc\u03bd\u03b5\u03b9\u03c1\u03bf \u03b5\u03c3\u03cd \u03ba\u03b1\u03b9 \u03c4\u03bf \u03b4\u03bf\u03be\u03ac\u03c1\u03b9Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4775009",
+   "artist_names": "Dimitris mitropanos",
+   "full_title": "\u0398\u03b5\u03c2 by\u00a0Dimitris\u00a0mitropanos",
+   "header_image_thumbnail_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "header_image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "id": 4775009,
+   "lyrics_owner_id": 8446717,
+   "lyrics_state": "complete",
+   "path": "/Dimitris-mitropanos--lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": "January 5, 0001",
+   "song_art_image_thumbnail_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "song_art_image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u0398\u03b5\u03c2",
+   "title_with_featured": "\u0398\u03b5\u03c2",
+   "url": "https://genius.com/Dimitris-mitropanos--lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/481513",
+    "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+    "id": 481513,
+    "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Dimitris mitropanos",
+    "url": "https://genius.com/artists/Dimitris-mitropanos"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/4775009/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4775009' class='rg_embed_link' data-song-id='4775009'>Read <a href='https://genius.com/Dimitris-mitropanos--lyrics'>\u201c\u0398\u03b5\u03c2\u201d by Dimitris\u00a0mitropanos</a> on Genius</div> <script crossorigin src='//genius.com/songs/4775009/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "0001-01-05",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8446717,
+    "annotator_login": "MavroSThanos",
+    "api_path": "/referents/17796900",
+    "classification": "needs_exegesis",
+    "fragment": "\u0398\u03b5\u03c2",
+    "id": 17796900,
+    "is_description": true,
+    "path": "/17796900/Dimitris-mitropanos-/",
+    "range": {
+     "content": "\u0398\u03b5\u03c2"
+    },
+    "song_id": 4775009,
+    "url": "https://genius.com/17796900/Dimitris-mitropanos-/",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4775009",
+     "client_timestamps": {
+      "updated_by_human_at": 1565567436,
+      "lyrics_updated_at": 1565567436
+     },
+     "context": "Dimitris mitropanos",
+     "id": 4775009,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "link_title": "\u0398\u03b5\u03c2 by\u00a0Dimitris\u00a0mitropanos",
+     "title": "\u0398\u03b5\u03c2",
+     "type": "Song",
+     "url": "https://genius.com/Dimitris-mitropanos--lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17796900",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17796900,
+      "pinned": false,
+      "share_url": "https://genius.com/17796900",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17796900/Dimitris-mitropanos-/",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8446717",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/98cae8a9b9cfd44b04ec3729ffc4c0e9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/98cae8a9b9cfd44b04ec3729ffc4c0e9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/98cae8a9b9cfd44b04ec3729ffc4c0e9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/98cae8a9b9cfd44b04ec3729ffc4c0e9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/98cae8a9b9cfd44b04ec3729ffc4c0e9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8446717,
+         "iq": 413,
+         "login": "MavroSThanos",
+         "name": "MavroSThanos",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MavroSThanos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=oYLaoWutq2w"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1395779",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "id": 1395779,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u03a3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03c2 \u039a\u03bf\u03c1\u03ba\u03bf\u03bb\u03ae\u03c2 (Stefanos Korkolis)",
+     "url": "https://genius.com/artists/Stefanos-korkolis"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Dimitris mitropanos",
+   "lyrics": "\u0398\u03b5\u03c2 Lyrics\u0398\u03b5\u03c2 \u03bd\u03b1\u2019\u03bc\u03b1\u03b9 \u03ba\u03b1\u03bb\u03ac \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c0\u03bf\u03bd\u03ac\u03c9\n\u0398\u03b5\u03c2 \u03bd\u03b1 \u2019\u03c3\u03b1\u03b9 \u03bc\u03b1\u03ba\u03c1\u03b9\u03ac \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03bc\u03bf\u03b9\u03c1\u03ac\u03b6\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ad\u03c2\n\u03a0\u03bf\u03c5 \u2019\u03c7\u03b1 \u03ba\u03c1\u03b1\u03c4\u03ae\u03c3\u03b5\u03b9\u2005\u03b3\u03b9\u03b1\u2005\u03bd\u03b1 \u03c3\u2019\u03ad\u03c7\u03c9\n\u0398\u03b5\u03c2 \u03bd\u03b1\u2005\u03bc\u03b7 \u03c3\u03bf\u03c5 \u03bb\u03ad\u03c9 \u03c0\u03c9\u03c2 \u03c3\u2019\u03b1\u03b3\u03b1\u03c0\u03ac\u03c9\n\u039d\u03b1 \u03b6\u03c9\u2005\u03ba\u03b1\u03b9 \u03bd\u03b1 \u03be\u03b5\u03c7\u03bd\u03ac\u03c9 \u03c4\u03bf \u03ac\u03c1\u03c9\u03bc\u03ac \u03c3\u03bf\u03c5\n\u0398\u03b5\u03c2 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03c9 \u03c3\u03c4\u03b1 \u03cc\u03bd\u03b5\u03b9\u03c1\u03ac \u03c3\u03bf\u03c5 \u03c0\u03bf\u03c4\u03ad\n\u039d\u03b1 \u03bc\u03b7\u03bd \u03b1\u03ba\u03bf\u03cd\u03c9 \u03c4\u03b7\u03c2 \u03ba\u03b1\u03c1\u03b4\u03b9\u03ac\u03c2 \u03bc\u03bf\u03c5 \u03c4\u03b7 \u03c6\u03c9\u03bd\u03ae\n\u039d\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03c1\u03b1\u03c4\u03ae\u03c3\u03c9 \u03bc\u03b9\u03b1 \u03b3\u03c9\u03bd\u03af\u03c4\u03c3\u03b1 \u03bd\u03b1 \u03ba\u03c1\u03c5\u03c6\u03c4\u03b5\u03af\n\u039d\u03b1 \u03bc\u03b7\u03bd \u03bb\u03c5\u03c0\u03ac\u03bc\u03b1\u03b9 \u03c0\u03bf\u03c5 \u03c3\u03b5 \u03c7\u03ac\u03bd\u03c9 \u03be\u03b1\u03c6\u03bd\u03b9\u03ba\u03ac\n\u039d\u03b1 \u03bc\u03b7\u03bd \u03c6\u03bf\u03b2\u03ac\u03bc\u03b1\u03b9 \u03c0\u03bf\u03c5 \u03b7 \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03bc\u03b1\u03c2 \u03bd\u03b9\u03ba\u03ac\n\u039d\u03b1 \u03bc\u03b7\u03bd \u03b1\u03b3\u03b3\u03af\u03be\u03c9 \u03c4\u03b7\u03bd \u03b1\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c3\u03bf\u03c5 \u03be\u03b1\u03bd\u03ac\n\u039d\u03b1 \u03bc\u03b7\u03bd \u03c0\u03bf\u03bd\u03ad\u03c3\u03c9 \u03bc\u03b5 \u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03bc\u03b5 \u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03bf\u03bd\u03ac\n\n\u0398\u03b5\u03c2 \u03bd\u03b1 \u03b3\u03af\u03bd\u03c9 \u03ac\u03bb\u03bb\u03bf\u03c2 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b5\u03af\u03bc\u03b1\u03b9 \u03c0\u03b9\u03b1 \u03b5\u03b3\u03ce\n\u039c\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf \u03ba\u03cc\u03c3\u03bc\u03bf \u03b1\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03ad\u03c6\u03c4\u03b9\u03b1\u03be\u03b5\u03c2 \u03bd\u03b1 \u03b6\u03c9\n\u039d\u03b1\u2019\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b8\u03c1\u03ad\u03c6\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2\n\u03a0\u03bf\u03c5 \u03b8\u03b1 \u03c3\u03b5 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03b8\u03b1 \u03bb\u03ad\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03c0\u03b5\u03b9\u03c2\n\u039d\u03b1 \u03c8\u03ac\u03be\u03c9 \u03b1\u03bb\u03bb\u03bf\u03cd \u03c4\u03bf \u03ac\u03bb\u03bb\u03bf \u03bc\u03bf\u03c5 \u03bc\u03b9\u03c3\u03cc\n\u0391\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bc\u2019\u03ac\u03c6\u03b7\u03bd\u03b5 \u03bc\u03b9\u03c3\u03cc\n\u039d\u03b1\u2019\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b8\u03c1\u03ad\u03c6\u03c4\u03b7\u03c2 \u03c3\u03b5 \u03cc\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03c0\u03bf\u03c5 \u03b5\u03c3\u03cd \u03b8\u03b1 \u03b8\u03b5\u03c2\n\u039c\u03b1 \u03b1\u03bd \u03c4\u03bf \u03bc\u03c0\u03bf\u03c1\u03ce \u03c0\u03bf\u03c4\u03ad \u03b4\u03b5\u03bd \u03c1\u03ce\u03c4\u03b7\u03c3\u03b5\u03c2\n\u0398\u03b5\u03c2 \u03cc\u03c4\u03b9 \u03ba\u03b1\u03ba\u03cc \u03bd\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03bd\u03ac\u03c9\n\u0398\u03b5\u03c2 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03bf\u03b9\u03bf\u03cd\u03bc\u03b1\u03b9 \u03c0\u03c9\u03c2 \u03b3\u03b5\u03bb\u03ac\u03c9\n\u03a7\u03c9\u03c1\u03af\u03c2 \u03bd\u03b1 \u2019\u03c3\u03b1\u03b9 \u03ba\u03bf\u03bd\u03c4\u03ac \u03bc\u03bf\u03c5 \u03bd\u03b1 \u03c5\u03c0\u03ac\u03c1\u03c7\u03c9\n\u0398\u03b5\u03c2 \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03bb\u03bf\u03b3\u03af\u03b5\u03c2 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bd\u03b1\u2019\u03c7\u03c9\n\u0398\u03b5\u03c2 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03bb\u03c5\u03c0\u03ac\u03bc\u03b1\u03b9 \u03c0\u03bf\u03c5 \u03c3\u03b5 \u03c7\u03ac\u03bd\u03c9 \u03be\u03b1\u03c6\u03bd\u03b9\u03ba\u03ac\n\u039d\u03b1 \u03bc\u03b7\u03bd \u03c6\u03bf\u03b2\u03ac\u03bc\u03b1\u03b9 \u03c0\u03bf\u03c5 \u03b7 \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03bc\u03b1\u03c2 \u03bd\u03b9\u03ba\u03ac\n\u039d\u03b1 \u03bc\u03b7\u03bd \u03b1\u03b3\u03b3\u03af\u03be\u03c9 \u03c4\u03b7\u03bd \u03b1\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c3\u03bf\u03c5 \u03be\u03b1\u03bd\u03ac\n\u039d\u03b1 \u03bc\u03b7\u03bd \u03c0\u03bf\u03bd\u03ad\u03c3\u03c9 \u03bc\u03b5 \u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03bc\u03b5 \u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03bf\u03bd\u03ac\n\n\u0398\u03b5\u03c2 \u03bd\u03b1 \u03b3\u03af\u03bd\u03c9 \u03ac\u03bb\u03bb\u03bf\u03c2 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b5\u03af\u03bc\u03b1\u03b9 \u03c0\u03b9\u03b1 \u03b5\u03b3\u03ce\n\u039c\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf \u03ba\u03cc\u03c3\u03bc\u03bf \u03b1\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03ad\u03c6\u03c4\u03b9\u03b1\u03be\u03b5\u03c2 \u03bd\u03b1 \u03b6\u03c9\n\u039d\u03b1\u2019\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b8\u03c1\u03ad\u03c6\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2\n\u03a0\u03bf\u03c5 \u03b8\u03b1 \u03c3\u03b5 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03b8\u03b1 \u03bb\u03ad\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03c0\u03b5\u03b9\u03c2\n\u039d\u03b1 \u03c8\u03ac\u03be\u03c9 \u03b1\u03bb\u03bb\u03bf\u03cd \u03c4\u03bf \u03ac\u03bb\u03bb\u03bf \u03bc\u03bf\u03c5 \u03bc\u03b9\u03c3\u03cc\n\u0391\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bc\u2019\u03ac\u03c6\u03b7\u03bd\u03b5 \u03bc\u03b9\u03c3\u03cc\n\u039d\u03b1\u2019\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b8\u03c1\u03ad\u03c6\u03c4\u03b7\u03c2 \u03c3\u03b5 \u03cc\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03c0\u03bf\u03c5 \u03b5\u03c3\u03cd \u03b8\u03b1 \u03b8\u03b5\u03c2\n\u039c\u03b1 \u03b1\u03bd \u03c4\u03bf \u03bc\u03c0\u03bf\u03c1\u03ce \u03c0\u03bf\u03c4\u03ad \u03b4\u03b5\u03bd \u03c1\u03ce\u03c4\u03b7\u03c3\u03b5\u03c2\n\n\u0398\u03b5\u03c2 \u03bd\u03b1 \u03c8\u03ac\u03be\u03c9 \u03b1\u03bb\u03bb\u03bf\u03cd \u03c4\u03bf \u03ac\u03bb\u03bb\u03bf \u03bc\u03bf\u03c5 \u03bc\u03b9\u03c3\u03cc\n\u0391\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bc\u2019\u03ac\u03c6\u03b7\u03bd\u03b5 \u03bc\u03b9\u03c3\u03cc\n\u039d\u03b1\u2019\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b8\u03c1\u03ad\u03c6\u03c4\u03b7\u03c2 \u03c3\u03b5 \u03cc\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03c0\u03bf\u03c5 \u03b5\u03c3\u03cd \u03b8\u03b1 \u03b8\u03b5\u03c2\n\u039c\u03b1 \u03b1\u03bd \u03c4\u03bf \u03bc\u03c0\u03bf\u03c1\u03ce \u03c0\u03bf\u03c4\u03ad \u03b4\u03b5\u03bd \u03c1\u03ce\u03c4\u03b7\u03c3\u03b5\u03c2\n\n\u0398\u03b5\u03c2 \u03bd\u03b1\u2019\u03bc\u03b1\u03b9 \u03ba\u03b1\u03bb\u03ac \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c0\u03bf\u03bd\u03ac\u03c9\n\u0398\u03b5\u03c2 \u03bd\u03b1 \u2019\u03c3\u03b1\u03b9 \u03bc\u03b1\u03ba\u03c1\u03b9\u03ac \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03bc\u03bf\u03b9\u03c1\u03ac\u03b6\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ad\u03c2\n\u03a0\u03bf\u03c5 \u2019\u03c7\u03b1 \u03ba\u03c1\u03b1\u03c4\u03ae\u03c3\u03b5\u03b9 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03c3\u2019\u03ad\u03c7\u03c9\n\u0398\u03b5\u03c2 \u03bd\u03b1 \u03bc\u03b7 \u03c3\u03bf\u03c5 \u03bb\u03ad\u03c9 \u03c0\u03c9\u03c2 \u03c3\u2019\u03b1\u03b3\u03b1\u03c0\u03ac\u03c9 \u03b8\u03b5\u03c2Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6723992",
+   "artist_names": "Dimitris mitropanos",
+   "full_title": "\u0394\u03c5\u03bf N\u03cd\u03c7\u03c4\u03b5\u03c2-\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf by\u00a0Dimitris\u00a0mitropanos",
+   "header_image_thumbnail_url": "https://images.genius.com/adc244118c08916f0d9f4e09d47cf42d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/adc244118c08916f0d9f4e09d47cf42d.700x700x1.jpg",
+   "id": 6723992,
+   "lyrics_owner_id": 4972646,
+   "lyrics_state": "complete",
+   "path": "/Dimitris-mitropanos-n-lyrics",
+   "pyongs_count": null,
+   "release_date_for_display": "May 26, 1994",
+   "song_art_image_thumbnail_url": "https://images.genius.com/adc244118c08916f0d9f4e09d47cf42d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/adc244118c08916f0d9f4e09d47cf42d.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u0394\u03c5\u03bf N\u03cd\u03c7\u03c4\u03b5\u03c2-\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf",
+   "title_with_featured": "\u0394\u03c5\u03bf N\u03cd\u03c7\u03c4\u03b5\u03c2-\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf",
+   "url": "https://genius.com/Dimitris-mitropanos-n-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/481513",
+    "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+    "id": 481513,
+    "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Dimitris mitropanos",
+    "url": "https://genius.com/artists/Dimitris-mitropanos"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/6723992/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6723992' class='rg_embed_link' data-song-id='6723992'>Read <a href='https://genius.com/Dimitris-mitropanos-n-lyrics'>\u201c\u0394\u03c5\u03bf N\u03cd\u03c7\u03c4\u03b5\u03c2-\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf\u201d by Dimitris\u00a0mitropanos</a> on Genius</div> <script crossorigin src='//genius.com/songs/6723992/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1994-05-26",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/762114",
+    "cover_art_url": "https://images.genius.com/adc244118c08916f0d9f4e09d47cf42d.700x700x1.jpg",
+    "full_title": "\u03a4\u03b1 \u03a4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03c4\u03b7\u03c2 Z\u03c9\u03ae\u03c2 \u039c\u03bf\u03c5 by Dimitris mitropanos",
+    "id": 762114,
+    "name": "\u03a4\u03b1 \u03a4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03c4\u03b7\u03c2 Z\u03c9\u03ae\u03c2 \u039c\u03bf\u03c5",
+    "url": "https://genius.com/albums/Dimitris-mitropanos/Z",
+    "artist": {
+     "api_path": "/artists/481513",
+     "header_image_url": "https://images.genius.com/dcbd32883eedd49ef566c2cbb9229797.284x177x1.jpg",
+     "id": 481513,
+     "image_url": "https://images.genius.com/52fa566187735c2df4a907ea837039de.166x166x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dimitris mitropanos",
+     "url": "https://genius.com/artists/Dimitris-mitropanos"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4972646,
+    "annotator_login": "Greekgun",
+    "api_path": "/referents/22787559",
+    "classification": "needs_exegesis",
+    "fragment": "\u0394\u03c5\u03bf N\u03cd\u03c7\u03c4\u03b5\u03c2-\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf",
+    "id": 22787559,
+    "is_description": true,
+    "path": "/22787559/Dimitris-mitropanos-n/N",
+    "range": {
+     "content": "\u0394\u03c5\u03bf N\u03cd\u03c7\u03c4\u03b5\u03c2-\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf"
+    },
+    "song_id": 6723992,
+    "url": "https://genius.com/22787559/Dimitris-mitropanos-n/N",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6723992",
+     "client_timestamps": {
+      "updated_by_human_at": 1618900485,
+      "lyrics_updated_at": 1618900368
+     },
+     "context": "Dimitris mitropanos",
+     "id": 6723992,
+     "image_url": "https://images.genius.com/adc244118c08916f0d9f4e09d47cf42d.700x700x1.jpg",
+     "link_title": "\u0394\u03c5\u03bf N\u03cd\u03c7\u03c4\u03b5\u03c2-\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf by\u00a0Dimitris\u00a0mitropanos",
+     "title": "\u0394\u03c5\u03bf N\u03cd\u03c7\u03c4\u03b5\u03c2-\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf",
+     "type": "Song",
+     "url": "https://genius.com/Dimitris-mitropanos-n-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/22787559",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 22787559,
+      "pinned": false,
+      "share_url": "https://genius.com/22787559",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/22787559/Dimitris-mitropanos-n/N",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4972646",
+         "avatar": {
+          "tiny": {
+           "url": "https://i.genius.com/67df5b3ff1c94f5b846d2d8305b8a68af31c905b?url=https%3A%2F%2Flh3.googleusercontent.com%2F-KJfpntSb2JI%2FAAAAAAAAAAI%2FAAAAAAAAAgo%2FQ8WzWVSly8g%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://i.genius.com/67df5b3ff1c94f5b846d2d8305b8a68af31c905b?url=https%3A%2F%2Flh3.googleusercontent.com%2F-KJfpntSb2JI%2FAAAAAAAAAAI%2FAAAAAAAAAgo%2FQ8WzWVSly8g%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://i.genius.com/67df5b3ff1c94f5b846d2d8305b8a68af31c905b?url=https%3A%2F%2Flh3.googleusercontent.com%2F-KJfpntSb2JI%2FAAAAAAAAAAI%2FAAAAAAAAAgo%2FQ8WzWVSly8g%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://i.genius.com/67df5b3ff1c94f5b846d2d8305b8a68af31c905b?url=https%3A%2F%2Flh3.googleusercontent.com%2F-KJfpntSb2JI%2FAAAAAAAAAAI%2FAAAAAAAAAgo%2FQ8WzWVSly8g%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xir32om6knf",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4972646,
+         "iq": 181515,
+         "login": "Greekgun",
+         "name": "Greekgun",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Greekgun",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=sfjS8seNs6o"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2696991",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "id": 2696991,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mimis Christopoulos",
+     "url": "https://genius.com/artists/Mimis-christopoulos"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6723985",
+       "artist_names": "Eisvoleas (Ft. Gelos (GR))",
+       "full_title": "\u039d\u03cd\u03c7\u03c4\u03b1 (Night) by\u00a0Eisvoleas (Ft.\u00a0Gelos\u00a0(GR))",
+       "header_image_thumbnail_url": "https://images.genius.com/85e2ad677c1b0b0c39c1bb4cd9df4e5d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/85e2ad677c1b0b0c39c1bb4cd9df4e5d.331x331x1.jpg",
+       "id": 6723985,
+       "lyrics_owner_id": 4972646,
+       "lyrics_state": "complete",
+       "path": "/Eisvoleas-night-lyrics",
+       "pyongs_count": null,
+       "release_date_for_display": "April 20, 2003",
+       "song_art_image_thumbnail_url": "https://images.genius.com/85e2ad677c1b0b0c39c1bb4cd9df4e5d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/85e2ad677c1b0b0c39c1bb4cd9df4e5d.331x331x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "\u039d\u03cd\u03c7\u03c4\u03b1 (Night)",
+       "title_with_featured": "\u039d\u03cd\u03c7\u03c4\u03b1 (Night) (Ft.\u00a0Gelos\u00a0(GR))",
+       "url": "https://genius.com/Eisvoleas-night-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2176155",
+         "header_image_url": "https://images.genius.com/51e8ad1cffba92a95832fdfecc94cee7.360x360x1.jpg",
+         "id": 2176155,
+         "image_url": "https://images.genius.com/51e8ad1cffba92a95832fdfecc94cee7.360x360x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Gelos (GR)",
+         "url": "https://genius.com/artists/Gelos-gr"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/161732",
+        "header_image_url": "https://images.genius.com/6acfcdf6f41361306aa4fba9da1be820.225x225x1.jpg",
+        "id": 161732,
+        "image_url": "https://images.genius.com/18ad1dade5cb95450c33c6deb576192d.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Eisvoleas",
+        "url": "https://genius.com/artists/Eisvoleas"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2696992",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "id": 2696992,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1652126974",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sakis Kapiris",
+     "url": "https://genius.com/artists/Sakis-kapiris"
+    }
+   ],
+   "artist": "Dimitris mitropanos",
+   "lyrics": "\u0394\u03c5\u03bf N\u03cd\u03c7\u03c4\u03b5\u03c2-\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf Lyrics\u0394\u03c5\u03bf \u03bd\u03cd\u03c7\u03c4\u03b5\u03c2 \u03b1\u03bd\u03c4\u03b1\u03bc\u03ce\u03c3\u03b1\u03bd\u03b5\n\u03a0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03b1 \u03b4\u03ac\u03ba\u03c1\u03c5\u03ac \u03bc\u03bf\u03c5\n\u0397 \u03bd\u03cd\u03c7\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03c3\u03b5 \u03b3\u03bd\u03ce\u03c1\u03b9\u03c3\u03b1\n\u039a\u03b9 \u03b7 \u03bd\u03cd\u03c7\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03c7\u03c9\u03c1\u03af\u03c3\u03b1\u03bc\u03b5\n\u039a\u03b1\u03b9 \u03ba\u03bb\u03b1\u03b9\u03bd' \u03c4\u03b1 \u03cc\u03bd\u03b5\u03b9\u03c1\u03ac \u03bc\u03bf\u03c5\n\u0398\u03b1 \u03c0\u03bd\u03af\u03be\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03ba\u03b1\u03c1\u03b4\u03b9\u03ac \u03bc\u03bf\u03c5\n\u03a7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b7\u03bd \u03b1\u03b3\u03ac\u03c0\u03b7 \u03c3\u03bf\u03c5 \u03b8\u03b1 \u03ae\u03bc\u03bf\u03c5\u03bd\u03b1 \u03bc\u03cc\u03bd\u03bf\u03c2\n\u0397 \u03c0\u03af\u03ba\u03c1\u03b1 \u03b8\u03b1 \u03bc \u03ad\u03c0\u03bd\u03b9\u03b3\u03b5 \u03c4\u03bf \u03b4\u03ac\u03ba\u03c1\u03c5 \u03bf \u03c0\u03cc\u03bd\u03bf\u03c2\n\u0395\u03c3\u03cd \u03bc\u03b5 \u03bf\u03b4\u03ae\u03b3\u03b7\u03c3\u03b5\u03c2 \u03c3\u03c4\u03b7 \u03b3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03b5\u03bb\u03c0\u03af\u03b4\u03b1\n\u03a4\u03bf\u03c5 \u03ba\u03cc\u03c3\u03bc\u03bf\u03c5 \u03c4\u03bf \u03bd\u03cc\u03b7\u03bc\u03b1 \u03c3\u03c4\u03b1 \u03bc\u03ac\u03c4\u03b9\u03b1 \u03c3\u03bf\u03c5 \u03b5\u03af\u03b4\u03b1\n\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf \u03c3 \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b1\u03b3\u03ac\u03c0\u03b7\u03c3\u03b1\u03bd\n\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf, \u03b1\u03bb\u03af\u03bc\u03bf\u03bd\u03bf, \u03b1\u03bb\u03af\u03bc\u03bf\u03bd\u03bf\n\u0391\u03bb\u03af\u03bc\u03bf\u03bd\u03bf \u03c3 \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b5 \u03b4\u03b1\u03ba\u03c1\u03cd\u03c3\u03b1\u03bd\u03b5 \u03b6\u03c9\u03ae\n\u03a4\u03b7\u03bd \u03bf\u03bc\u03bf\u03c1\u03c6\u03b9\u03ac \u03c3\u03bf\u03c5 \u03b4\u03b5 \u03b3\u03bd\u03c9\u03c1\u03af\u03c3\u03b1\u03bd\u03b5 \u03b6\u03c9\u03ae\n\u03a4\u03b7\u03bd \u03bf\u03bc\u03bf\u03c1\u03c6\u03b9\u03ac \u03c3\u03bf\u03c5 \u03b4\u03b5 \u03b3\u03bd\u03c9\u03c1\u03af\u03c3\u03b1\u03bd\u03b5Embed"
+  }
+ ]
+}
