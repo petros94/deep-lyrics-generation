@@ -26,7 +26,17 @@ We suggest a value between 5 - 50.
 
 ### generate_multi_lyric.py
 Input some words and the model will generate a whole verse.
-This method uses a two-layer LSTM with 256 hidden neurons and byte pair encoding tokenization with ~10000 vocabulary size.
+This method uses a two-layer LSTM with 256 hidden neurons and regex tokenization with ~3000 vocabulary size.
 
 Run with:
-`python ./generate_multi_lyric.py -t 20`
+`python ./generate_multi_lyric.py -t 4`
+For 't' we suggest a value between 3 - 6.
+
+### generate_multi_lyric_interactive.py
+The model with suggest the next top words. The user proceeds with choosing the word and the model will make the next preditions, and so on...
+In this way you can create a verse with the help from the model.
+This method uses a two-layer LSTM with 256 hidden neurons and regex tokenization with ~3000 vocabulary size.
+
+Run with:
+`python ./generate_multi_lyric_interactive.py_ -t 6`
+'t' is the number of suggested predictions to choose from.

@@ -188,3 +188,41 @@ def train(model, train_set, validation_set, max_epochs, batch_size, weights):
             f"Probabilistic predictions (top 5): {['Θέλω ' + predict(model, train_set, seq, max_seq, deterministic=False, no_unk=True, top_only=5) for i in range(5)]}")
         print("----------------------------------------")
     return evaluation_data
+
+def predict_many(model, dataset, test_seq, max_seq, no_unk=False, top_only=False):
+    """
+    Make a forward-pass and predict the top words.
+
+    :param model: an LSTM instance of class defined in model.py
+    :param dataset: a dataset instance of class defined in dataset.py
+    :param test_seq: a sequence of words to feed to the model. e.g. ['Δεν', 'έχει', 'σίδερα', 'η']
+    :param max_seq: the max length of generated sequence
+    :param deterministic: If true, the model will always return the most likely prediction
+    :param no_unk: Prevent model from generating <unk> words
+    :param top_only: int. If set, the model will chose only among the 'n' top words (weighted by their probability) for the next prediction
+    :return: the original + predicted sequence as a string
+    """
+    model.eval()
+    test_seq = " ".join(['#'] + test_seq)
+    input = dataset.tokens_to_ids(test_seq)
+    h, c = model.init_state(1)
+
+    with torch.no_grad():
+        values = []
+
+        # Reinitialize weights
+        h, c = model.init_state(1)
+
+        # Prepare input
+        length = len(input)
+        x = torch.tensor(input)
+        x = torch.nn.utils.rnn.pad_sequence([x], padding_value=dataset.padding_idx)
+
+        # Predict next token probabilities
+        out, (h, c) = model.forward(x.to(device), [length], (h, c))
+        p = torch.nn.functional.softmax(out[-1].squeeze(0)).detach().cpu().numpy()
+
+        indices = p.argsort()[::-1][0:top_only]
+        decoded = [dataset.ids_to_tokens([int(idx)]) for idx in indices]
+
+        return decoded

@@ -7,16 +7,16 @@ warnings.filterwarnings("ignore")
 
 ## Use cuda if available
 from config import device
-from dataset import LyricsDatasetBPE
+from dataset import LyricsDatasetBPE, LyricsDatasetRegex
 from train import predict
 
 ## Define model
 from model import LSTM
 
-dataset = LyricsDatasetBPE([[]])
-dataset = torch.load('pretrained_models/train_set_bt3.pt')
-model = LSTM(dataset.n_vocab, padding_idx=dataset.padding_idx, embedding_size=100, hidden_size=256, num_layers=2)
-model.load_state_dict(torch.load('pretrained_models/model_bt3.pt', map_location=torch.device(device)))
+dataset = LyricsDatasetRegex([[]])
+dataset = torch.load('pretrained_models/train_set_rt3.pt')
+model = LSTM(len(dataset.token_set), padding_idx=dataset.padding_idx, embedding_size=100, hidden_size=256, num_layers=2)
+model.load_state_dict(torch.load('pretrained_models/model_rt3.pt', map_location=torch.device(device)))
 model.to(device)
 model.eval()
 
@@ -45,7 +45,6 @@ def main(argv):
     val = input("Type a word or phrase and press Enter, to get an AI-generated lyric: ")
     while val != 'quit':
         seq = regex.findall(val)
-        print(seq)
         print(val + " " + predict(model, dataset, seq, 100, top_only=top_words, no_unk=True))
         val = input("Type a word or phrase and press Enter, to get an AI-generated lyric: ")
 
