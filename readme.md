@@ -12,6 +12,10 @@ we encourage you to read the full report available as a jupyter notebook (notebo
 Note: All lyrics belong to their rightful owners. This project uses the lyrics for academic purposes only.
 ## How to run
 
+First install the requirements with
+
+`pip install -r requirements.txt`
+
 There are two files that you can run to generate lyrics:
 
 ### generate_single_lyric.py
