@@ -33,8 +33,8 @@ Run with:
 For 't' we suggest a value between 3 - 6.
 
 ### generate_multi_lyric_interactive.py
-The model with suggest the next top words. The user proceeds with choosing the word and the model will make the next preditions, and so on...
-In this way you can create a verse with the help from the model.
+The model with suggest the next top words. The user proceeds with choosing the word and the model will make the next suggestion, and so on...
+In this way you can create a verse with help from the model.
 This method uses a two-layer LSTM with 256 hidden neurons and regex tokenization with ~3000 vocabulary size.
 
 Run with:
