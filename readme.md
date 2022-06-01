@@ -44,3 +44,15 @@ This method uses a two-layer LSTM with 256 hidden neurons and regex tokenization
 Run with:
 `python ./generate_multi_lyric_interactive.py_ -t 6`
 't' is the number of suggested predictions to choose from.
+
+**Note:** If you get the following error:
+
+`UnicodeEncodeError: 'charmap' codec can't encode characters in position 1-2: character maps to <undefined>`
+ 
+set the env variable PYTHONIOENCODING to utf-8.
+ 
+* Linux: export PYTHONIOENCODING=utf-8
+* Windows: set PYTHONIOENCODING=utf-8
+
+
+
